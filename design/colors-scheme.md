@@ -1,5 +1,11 @@
 # Color Scheme
 
+## Colors
+
+Black (#000000), golden-brown (#dd9933), green (#336601), white (#ffffff)
+
+![](images/ingredients/color-scheme.jpg)
+
 ## Black Color Theme
 
 The black color theme features a black navbar and gray footer. Text is white, brown on hover.
