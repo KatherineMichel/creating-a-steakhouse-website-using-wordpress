@@ -1,4 +1,4 @@
-# Ingredients
+# More Ingredients
 
 ## Icon
 
