@@ -14,8 +14,8 @@ Using a free, open source photo editing program called [Gimp](https://www.gimp.o
 
 ## Header Before
 
-![](images/header-before.png)
+![](images/header-before.jpg)
 
 ## Header After
 
-![](images/header-after.png)
+![](images/header-after.jpg)

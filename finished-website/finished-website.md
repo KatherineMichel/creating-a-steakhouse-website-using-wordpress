@@ -2,4 +2,4 @@
 
 [www.prettyprairiesteakhouse.com](http://www.prettyprairiesteakhouse.com)
 
-![](finished-homepage.png)
+![](finished-homepage.jpg)

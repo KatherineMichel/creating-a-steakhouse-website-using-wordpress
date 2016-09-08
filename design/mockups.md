@@ -14,17 +14,17 @@ The header photo, which is used with permission of the [Hutchinson News](http://
 
 The black color theme features a black navbar and gray footer. Text is white, brown on hover.
 
-![](images/mockup-variations/black-navbar.png)
+![](images/mockup-variations/black-navbar.jpg)
 
-![](images/mockup-variations/black-navbar-hover.png)
+![](images/mockup-variations/black-navbar-hover.jpg)
 
 ### White Color Theme
 
 The white color theme features a white navbar and white footer. Text is black, brown on hover.
 
-![](images/mockup-variations/white-navbar.png)
+![](images/mockup-variations/white-navbar.jpg)
 
-![](images/mockup-variations/white-navbar-hover.png)
+![](images/mockup-variations/white-navbar-hover.jpg)
 
 ## Mockup Version
 
@@ -32,46 +32,46 @@ The white color theme features a white navbar and white footer. Text is black, b
 
 Small Desktop- Transparent Navbar
 
-![](images/mockup-variations/laptop-no-navbar.png)
+![](images/mockup-variations/laptop-no-navbar.jpg)
 
 Small Desktop- Black Color Theme
 
-![](images/mockup-variations/small-desktop-black-theme-full-width.png)
+![](images/mockup-variations/small-desktop-black-theme-full-width.jpg)
 
 Small Desktop- White Color Theme
 
-![](images/mockup-variations/small-desktop-white-theme-full-width.png)
+![](images/mockup-variations/small-desktop-white-theme-full-width.jpg)
 
 ### Boxed
 
 Large Desktop- Black Color Theme
 
-![](images/mockup-variations/large-desktop-black-theme-boxed.png)
+![](images/mockup-variations/large-desktop-black-theme-boxed.jpg)
 
 Small Desktop- Black Color Theme
 
-![](images/mockup-variations/small-desktop-black-theme-boxed.png)
+![](images/mockup-variations/small-desktop-black-theme-boxed.jpg)
 
 Small Desktop- White Color Theme
 
-![](images/mockup-variations/small-desktop-white-theme-boxed.png)
+![](images/mockup-variations/small-desktop-white-theme-boxed.jpg)
 
 ### White Border
 
 Small Desktop- Black Color Theme
 
-![](images/mockup-variations/small-desktop-black-theme-white-border.png)
+![](images/mockup-variations/small-desktop-black-theme-white-border.jpg)
 
 Small Desktop- White Color Theme
 
-![](images/mockup-variations/small-desktop-white-theme-white-border.png)
+![](images/mockup-variations/small-desktop-white-theme-white-border.jpg)
 
 ### Boxed and White Border
 
 Small Desktop- Black Color Theme
 
-![](images/mockup-variations/small-desktop-black-theme-boxed-and-white-border.png)
+![](images/mockup-variations/small-desktop-black-theme-boxed-and-white-border.jpg)
 
 Small Desktop- White Color Theme
 
-![](images/mockup-variations/small-desktop-white-theme-boxed-and-white-border.png)
+![](images/mockup-variations/small-desktop-white-theme-boxed-and-white-border.jpg)

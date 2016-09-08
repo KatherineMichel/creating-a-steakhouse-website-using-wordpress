@@ -3,7 +3,7 @@
 ## Facebook Header
 
 Current Header
-![](facebook-header.png)
+![](facebook-header.jpg)
 
 ## Coordinated Design
 

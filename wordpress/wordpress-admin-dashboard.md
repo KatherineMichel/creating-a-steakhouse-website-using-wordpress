@@ -4,10 +4,10 @@ I chose WordPress in part due to its famous dashboard. With WordPress powering a
 
 Website Admin View Example
 
-![](images/website-admin-view.png)
+![](images/website-admin-view.jpg)
 
 WordPress Admin Dashboard Example
 
-![](images/wordpress-admin-dashboard.png)
+![](images/wordpress-admin-dashboard.jpg)
 
 

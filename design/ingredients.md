@@ -4,7 +4,7 @@
 
 Favicon
 
-![](images/ingredients/favicon.png)
+![](images/ingredients/favicon.jpg)
 
 ## Overall Color Scheme
 
@@ -20,4 +20,4 @@ Background: wood
 
 Footer: slate
 
-![](images/ingredients/slate-background.png)
+![](images/ingredients/slate-background.jpg)
