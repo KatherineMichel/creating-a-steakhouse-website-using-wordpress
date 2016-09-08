@@ -1,11 +1,11 @@
 # Layout
 
-## Backgrounds/Textures
+## Backgrounds and Textures
 
-Background: wood
+Boxed page background: wood
 
 ![](images/ingredients/wood-background.jpg)
 
-Footer: slate
+Footer background: slate
 
 ![](images/ingredients/slate-background.jpg)
