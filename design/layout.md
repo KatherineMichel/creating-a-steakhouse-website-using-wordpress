@@ -1,10 +1,4 @@
-# More Ingredients
-
-## Icon
-
-Favicon
-
-![](images/ingredients/favicon.jpg)
+# Layout
 
 ## Backgrounds/Textures
 
