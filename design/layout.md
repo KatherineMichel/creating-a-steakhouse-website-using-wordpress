@@ -9,3 +9,9 @@ Boxed page background: wood
 Footer background: slate
 
 ![](images/layout-and-color-scheme/slate-background.jpg)
+
+## Layout Template
+
+Without footer
+
+With footer
