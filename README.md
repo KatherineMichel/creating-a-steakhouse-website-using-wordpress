@@ -10,6 +10,7 @@ Table of Contents
 * [WordPress](wordpress/wordpress.md)
 * [Design](design/design.md)
   * [Wireframes](design/wireframes.md)
+  * [Color Scheme](design/color-scheme.md)
   * [Ingredients](design/ingredients.md)
   * [Header Photo Shopping](design/header-photo-shopping.md)
   * [Mockups](design/mockups.md)
