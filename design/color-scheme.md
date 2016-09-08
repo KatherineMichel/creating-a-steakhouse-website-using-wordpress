@@ -21,3 +21,7 @@ The white color theme features a white navbar and white footer. Text is black, b
 ![](images/mockup-variations/white-navbar.jpg)
 
 ![](images/mockup-variations/white-navbar-hover.jpg)
+
+## Favicon
+
+![](images/ingredients/favicon.jpg)
