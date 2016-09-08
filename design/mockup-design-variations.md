@@ -1,4 +1,4 @@
-# Mockups
+# Mockup Design Variations
 
 Frankly, I think all of these options are beautiful, and choosing one is difficult! One solution would be to occasionally change the color theme or layout, for instance, by season.<br>
 
