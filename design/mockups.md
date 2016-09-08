@@ -8,9 +8,7 @@ Note that for the boxed version only, the layout is different on a large desktop
 
 The header photo, which is used with permission of the [Hutchinson News](http://www.hutchnews.com), was taken from a [Hutchinson News story](http://www.hutchnews.com/projects/progress/progress-a-small-town-s-prairie-survival-rodeo-just-part/article_3d11eaba-435c-5be2-8716-47b73a5e7558.html) about the Pretty Prairie Steakhouse. 
 
-## Mockup Version
-
-### Full Width
+## Full Width
 
 Small Desktop- Transparent Navbar
 
@@ -24,7 +22,7 @@ Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-full-width.jpg)
 
-### Boxed
+## Boxed
 
 Large Desktop- Black Color Theme
 
@@ -38,7 +36,7 @@ Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-boxed.jpg)
 
-### White Border
+## White Border
 
 Small Desktop- Black Color Theme
 
@@ -48,7 +46,7 @@ Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-white-border.jpg)
 
-### Boxed and White Border
+## Boxed and White Border
 
 Small Desktop- Black Color Theme
 
