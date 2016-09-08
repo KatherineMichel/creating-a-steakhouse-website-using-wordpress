@@ -8,24 +8,6 @@ Note that for the boxed version only, the layout is different on a large desktop
 
 The header photo, which is used with permission of the [Hutchinson News](http://www.hutchnews.com), was taken from a [Hutchinson News story](http://www.hutchnews.com/projects/progress/progress-a-small-town-s-prairie-survival-rodeo-just-part/article_3d11eaba-435c-5be2-8716-47b73a5e7558.html) about the Pretty Prairie Steakhouse. 
 
-## Color Themes
-
-### Black Color Theme
-
-The black color theme features a black navbar and gray footer. Text is white, brown on hover.
-
-![](images/mockup-variations/black-navbar.jpg)
-
-![](images/mockup-variations/black-navbar-hover.jpg)
-
-### White Color Theme
-
-The white color theme features a white navbar and white footer. Text is black, brown on hover.
-
-![](images/mockup-variations/white-navbar.jpg)
-
-![](images/mockup-variations/white-navbar-hover.jpg)
-
 ## Mockup Version
 
 ### Full Width
