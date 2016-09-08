@@ -11,7 +11,7 @@ Table of Contents
 * [Design](design/design.md)
   * [Wireframes](design/wireframes.md)
   * [Color Scheme](design/color-scheme.md)
-  * [More Ingredients](design/more-ingredients.md)
+  * [Layout](design/layout.md)
   * [Header Photo Shopping](design/header-photo-shopping.md)
   * [Mockups](design/mockups.md)
   * [High Fidelity Prototype](design/high-fidelity-prototype.md)
