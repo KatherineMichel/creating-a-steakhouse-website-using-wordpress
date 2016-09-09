@@ -12,7 +12,8 @@
 
 * Photo shopping: [Gimp](https://www.gimp.org)
 * Zipfile management [PeaZip](https://sourceforge.net/projects/peazip)
-* Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en) for device simulation for testing
+* Device simulation and testing: Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en)
+* File sharing: [Google Docs](https://www.google.com/docs/about)
 
 ## Considered
 
