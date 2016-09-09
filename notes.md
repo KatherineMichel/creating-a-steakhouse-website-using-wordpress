@@ -1,5 +1,11 @@
 # Notes
 
+Body border color: white (#ffffff)
+Footer color: gray (#222222)
+Header background: black (#000000)
+Navbar font color: white (#ffffff)
+Navbar font hover color: brown (#dd9933)
+
 # Requirements
 
 Project
