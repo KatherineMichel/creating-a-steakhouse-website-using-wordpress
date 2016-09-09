@@ -8,7 +8,7 @@ Black (#000000), golden-brown (#dd9933), green (#336601), white (#ffffff)
 
 ## Black Color Theme
 
-The black color theme features a black navbar and gray footer. Text is white, brown on hover.
+The black color theme features a black (#000000) navbar and gray footer. Text is white (#ffffff), golden-brown (#dd9933) on hover.
 
 Navbar
 ![](images/layout-and-color-scheme/black-navbar.jpg)
@@ -24,7 +24,7 @@ Footer with mouse hovering over hyperlink
 
 ## White Color Theme
 
-The white color theme features a white navbar and white footer. Text is black, brown on hover.
+The white color theme features a white (#ffffff) navbar and footer. Text is black (#000000), golden-brown (#dd9933) on hover.
 
 Navbar
 ![](images/layout-and-color-scheme/white-navbar.jpg)
