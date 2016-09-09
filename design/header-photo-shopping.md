@@ -4,7 +4,7 @@ The header photo, which is used with permission of the [Hutchinson News](http://
 
 Using a free, open source photo editing program called [Gimp](https://www.gimp.org), I "photo shopped" the original header photo in order to increase the contrast. The difference is subtle, but makes the white header text easier to read over the mashed potatoes and gravy.
 
-Note: the image was compressed before use in production
+Note: the image was also compressed before use in production
 
 ## Original Header Photo
 
