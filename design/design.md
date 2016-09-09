@@ -1,25 +1,35 @@
 # Design
 
-## Website design goals
+## What I Envision
 
-* Create a design that is both rustic and elegant, and aesthetically pleasing
-* The design should reflect the subject matter without being a caricature or overdone
-* Anytime feasible, real photos should be used instead of stock photos
-* The photos and content should give a well-balanced insight into the steakhouse, associated ventures, and community
+I envision a website that is both rustic and elegant, and aesthetically pleasing. The design will reflect colors, textures and images commonly associated with a steakhouse, without being a caricature or overdone. Anytime feasible, real photos taken of the steakhouse and its products will be used instead of stock photos. The website photos and content will give insight into not only the steakhouse itself, but will promote an associated venture (Potter Creek Outfitters) and local attractions. 
 
-## Usability goals
+## Layout Choices
 
-* Website maintenance will be as painless as possible in order to keep non-evergreen content up-to-date
-* Users should have easy access to the information that is most important to them
+* The site will be a multi-page site rather than a one-page site (all content on the homepage)
+* The navbar will be fixed (attached to the top and visible during scrolling), with no logo (or a placeholder that is the same color as the navbar, because back-to-top button will not appear without a logo in place)
+* Links on the navbar will primarily link to additional pages or external websites/documents, rather than sections of the homepage as in the case of a one-page site
+* Preferably, external links should open in a new window
+
+## DRY and Updates
+
+As often as possible, the website will adhere to the DRY (Don't Repeat Yourself) principle. 
+* Info and elements such as buttons will be repeated the fewest times possible in order to minimize updates
+* Attractice evergreen content will be used. Non-evergreen content will be isolated to specific areas of the website so that updates will be as painless as possible for non-techies
+
+## Priority Info
+
+Priority info is the info believed to be most important to and most commonly sought out by users and therefore made easily accessible to them
+* Contact and location info: hours, telephone number, email address, physical address
+* Weekly specials
+* Menu
+
+## Responsiveness and Mobile Optimization
+
 * The website will be responsive (layout adapts to browser size)
 * The website layout will have a logical flow
-* Accessibility standards will be met
-
-## Specific layout and functionality choices
-
-* The site will be a multi-page site rather than a one page site. Links on the navbar may link to sections of the homepage, other pages, or external websites/documents
-* Preferably, external links should open in a new window
-* The navbar will be fixed (attached to the top and visible during scrolling), with no logo (or a placeholder that is the same color as the navbar, because back-to-top button will not appear without a logo in place)
+* In the event of a tradeoff, priority will be given to newer devices and popular devices
+* Every effort will be made to meet accessibility standards
 
 ## Example homepage layout
 
@@ -29,16 +39,6 @@
 * About us teaser: text and photo grid on slate background
 * Signature dishes section: white background
 * Slate footer
-
-## Priority Info
-
-* Contact and location info: hours, telephone number, email address, physical address
-* Weekly specials
-* Menu
-
-## DRY
-
-As often as possible, the website will adhere to the DRY (Don't Repeat Yourself) principle. Info and elements such as buttons will be repeated the fewest times possible in order to minimize updates. Attractice evergreen content will be used, with updates limited to specific areas of the website. 
 
 
 
