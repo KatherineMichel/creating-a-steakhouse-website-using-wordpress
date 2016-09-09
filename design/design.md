@@ -6,9 +6,9 @@ I envision a website that is both rustic and elegant, and aesthetically pleasing
 
 ## Layout Choices
 
-* The site will be a multi-page site rather than a one-page site (all content on the homepage)
+* The site will be a multi-page site rather than a one-page site
 * The navbar will be fixed (attached to the top and visible during scrolling), with no logo (or a placeholder that is the same color as the navbar, because back-to-top button will not appear without a logo in place)
-* Links on the navbar will primarily link to additional pages or external websites/documents, rather than sections of the homepage as in the case of a one-page site
+* Links on the navbar will primarily link to additional pages or external websites/documents, rather than sections of the homepage (usually done when a one-page site)
 * Preferably, external links should open in a new window
 
 ## DRY and Updates
