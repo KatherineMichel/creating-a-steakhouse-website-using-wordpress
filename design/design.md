@@ -16,6 +16,7 @@ I envision a website that is both rustic and elegant, and aesthetically pleasing
 As often as possible, the website will adhere to the DRY (Don't Repeat Yourself) principle. 
 * Info and elements such as buttons will be repeated the fewest times possible in order to minimize updates
 * Attractice evergreen content will be used. Non-evergreen content will be isolated to specific areas of the website so that updates will be as painless as possible for non-techies
+* The website layout will have a logical flow
 
 ## Priority Info
 
@@ -27,7 +28,7 @@ Priority info is the info believed to be most important to and most commonly sou
 ## Responsiveness and Mobile Optimization
 
 * The website will be responsive (layout adapts to browser size)
-* The website layout will have a logical flow
+* The website layout and elements will be optimized for mobile
 * In the event of a tradeoff, priority will be given to newer devices and popular devices
 * Every effort will be made to meet accessibility standards
 
@@ -39,16 +40,3 @@ Priority info is the info believed to be most important to and most commonly sou
 * About us teaser: text and photo grid on slate background
 * Signature dishes section: white background
 * Slate footer
-
-
-
-
-
-
-
-
-
-
-
-
-
