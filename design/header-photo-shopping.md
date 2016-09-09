@@ -21,3 +21,5 @@ Note: the image was also compressed before use in production
 ## Header After
 
 ![](images/header-after.jpg)
+
+![](images/mockup-variations/small-desktop-black-theme-full-width.jpg)
