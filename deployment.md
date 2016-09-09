@@ -11,7 +11,8 @@
 ## Utilities
 
 * Photo shopping: [Gimp](https://www.gimp.org)
-* Zipfile management [PeaZip](https://sourceforge.net/projects/peazip/)
+* Zipfile management [PeaZip](https://sourceforge.net/projects/peazip)
+* Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en) for device simulation for testing
 
 ## Considered
 
@@ -27,6 +28,7 @@
 * Enabled installation by [connecting to droplet with SSH](https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh) via PuTTY and Mac terminal, changing password
 * Created special Apache server configuration via SSH and nano to enable upload of larger premium theme
 * Used local environment to test WordPress before implementing in host environment
+* Use of Google Canary Chrome for device simulation for testing; also crowdsourced device testing
 
 Digital Ocean Specs
 
@@ -56,12 +58,3 @@ And server restart
     $ service apache2 restart
 
 I was then able to upload and activate the theme without incident. 
-
-
-
-
-
- 
-
-
-
