@@ -8,18 +8,18 @@ Note: the image was also compressed before use in production
 
 ## Original Header Photo
 
-![](images/hutchinson-news-steak-original.jpg)
+![](images/header-photo/hutchinson-news-steak-original.jpg)
 
 ## Photo Shopped Header Photo
 
-![](images/hutchinson-news-steak-gimped.jpg)
+![](images/header-photo/hutchinson-news-steak-gimped.jpg)
 
 ## Header Before
 
-![](images/header-before.jpg)
+![](images/header-photo/small-desktop-black-theme-boxed-and-white-border-header-before.jpg)
 
 ## Header After
 
-![](images/header-after.jpg)
+![](images/header-photo/small-desktop-black-theme-boxed-and-white-border-header-after.jpg)
 
-![](images/mockup-variations/small-desktop-black-theme-boxed-and-white-border.jpg)
+
