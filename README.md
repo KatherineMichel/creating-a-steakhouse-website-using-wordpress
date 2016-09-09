@@ -16,6 +16,7 @@ Table of Contents
   * [High Fidelity Prototype](design/high-fidelity-prototype.md)
   * [Mockup Design Variations](design/mockup-design-variations.md)
 * [Navbar](design/navbar.md)
+  * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
 * [Secondary Functionality](design/secondary-functionality.md)
 * [Flemings Promotion Lightning Demo](design/flemings-promotion-lightning-demo.md)
 * [Deployment](deployment.md)
