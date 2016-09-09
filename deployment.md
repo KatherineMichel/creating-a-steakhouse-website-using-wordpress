@@ -28,7 +28,7 @@
 * Enabled installation by [connecting to droplet with SSH](https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh) via PuTTY and Mac terminal, changing password
 * Created special Apache server configuration via SSH and nano to enable upload of larger premium theme
 * Used local environment to test WordPress before implementing in host environment
-* Use of Google Canary Chrome for device simulation for testing; also crowdsourced device testing
+* Used Google Canary Chrome for device simulation for testing; also crowdsourced device testing
 
 Digital Ocean Specs
 
