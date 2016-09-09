@@ -16,9 +16,11 @@ Navbar
 Navbar with mouse hovering over hyperlink
 ![](images/layout-and-color-scheme/black-navbar-hover.jpg)
 
-Footer (placeholder)
+Footer
+![](images/layout-and-color-scheme/black-footer.jpg)
 
-Footer with mouse hovering over hyperlink (placeholder)
+Footer with mouse hovering over hyperlink
+![](images/layout-and-color-scheme/black-footer-hover.jpg)
 
 ## White Color Theme
 
@@ -30,9 +32,11 @@ Navbar
 Navbar with mouse hovering over hyperlink
 ![](images/layout-and-color-scheme/white-navbar-hover.jpg)
 
-Footer (placeholder)
+Footer
+![](images/layout-and-color-scheme/white-footer.jpg)
 
-Footer with mouse hovering over hyperlink (placeholder)
+Footer with mouse hovering over hyperlink
+![](images/layout-and-color-scheme/white-footer-hover.jpg)
 
 ## Favicon
 
