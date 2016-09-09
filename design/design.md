@@ -15,7 +15,7 @@ I envision a website that is both rustic and elegant, and aesthetically pleasing
 
 As often as possible, the website will adhere to the DRY (Don't Repeat Yourself) principle. 
 * Info and elements such as buttons will be repeated the fewest times possible in order to minimize updates
-* Attractice evergreen content will be used. Non-evergreen content will be isolated to specific areas of the website so that updates will be as painless as possible for non-techies
+* Attractive evergreen content will be used. Non-evergreen content will be isolated to specific areas of the website so that updates will be as painless as possible for non-techies
 * The website layout will have a logical flow
 
 ## Priority Info
