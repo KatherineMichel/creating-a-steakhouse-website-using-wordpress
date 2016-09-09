@@ -31,12 +31,3 @@ Priority info is the info believed to be most important to and most commonly sou
 * The website layout and elements will be optimized for mobile
 * In the event of a tradeoff, priority will be given to newer devices and popular devices
 * Every effort will be made to meet accessibility standards
-
-## Example homepage layout
-
-* Boxed page background: wood panelling
-* Navbar: black or white, inverse color text, with brown or black while hovering
-* Header: white text and separator on quintessential steak dinner photo with photo shopped contrast
-* About us teaser: text and photo grid on slate background
-* Signature dishes section: white background
-* Slate footer
