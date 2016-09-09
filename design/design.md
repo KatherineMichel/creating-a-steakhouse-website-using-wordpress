@@ -20,7 +20,7 @@ As often as possible, the website will adhere to the DRY (Don't Repeat Yourself)
 
 ## Priority Info
 
-Priority info is the info believed to be most important to and most commonly sought out by users and therefore made easily accessible to them
+Priority info is the info believed to be most important to and most commonly sought out by users and therefore made easily accessible to them.
 * Contact and location info: hours, telephone number, email address, physical address
 * Weekly specials
 * Menu
