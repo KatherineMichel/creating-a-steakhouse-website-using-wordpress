@@ -16,6 +16,10 @@ Navbar
 Navbar with mouse hovering over hyperlink
 ![](images/layout-and-color-scheme/black-navbar-hover.jpg)
 
+Footer (placeholder)
+
+Footer with mouse hovering over hyperlink (placeholder)
+
 ## White Color Theme
 
 The white color theme features a white navbar and white footer. Text is black, brown on hover.
@@ -23,9 +27,12 @@ The white color theme features a white navbar and white footer. Text is black, b
 Navbar
 ![](images/layout-and-color-scheme/white-navbar.jpg)
 
-
 Navbar with mouse hovering over hyperlink
 ![](images/layout-and-color-scheme/white-navbar-hover.jpg)
+
+Footer (placeholder)
+
+Footer with mouse hovering over hyperlink (placeholder)
 
 ## Favicon
 
