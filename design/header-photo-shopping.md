@@ -22,4 +22,4 @@ Note: the image was also compressed before use in production
 
 ![](images/header-after.jpg)
 
-![](images/mockup-variations/small-desktop-black-theme-full-width.jpg)
+![](images/mockup-variations/small-desktop-black-theme-boxed-and-white-border.jpg)
