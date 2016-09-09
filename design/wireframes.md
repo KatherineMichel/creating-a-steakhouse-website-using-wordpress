@@ -4,13 +4,13 @@ Wireframes made using [Keynote](http://www.apple.com/mac/keynote) and [Keynotopi
 
 ## Homepage
 
-![](images/wireframes/pretty-prairie-steakhouse-wireframe-homepage.jpeg)
+![](images/wireframes/wireframe-homepage.jpeg)
 
 ## Detail Page
 
 Example: About Us
 
-![](images/wireframes/pretty-prairie-steakhouse-wireframe-about-us.jpeg)
+![](images/wireframes/wireframe-about-us.jpeg)
 
 
 
