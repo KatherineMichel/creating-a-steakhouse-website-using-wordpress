@@ -14,8 +14,8 @@ Footer background: slate
 
 Without footer
 
-![](images/page-template.jpg)
+![](images/layout-and-color-scheme/page-template.jpg)
 
 With footer
 
-![](images/page-template-with-footer.jpg)
+![](images/layout-and-color-scheme/page-template-with-footer.jpg)
