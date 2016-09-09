@@ -2,9 +2,10 @@
 
 Description
 * Boxed page background: wood panelling
-* Navbar: black or white, inverse color text, with brown or black while hovering
+* Navbar: black with white text, brown on hover
 * Homepage header/detail page section: white background
 * Slate footer
+* Footer: gray with white text, brown on hover
 
 Without footer
 
