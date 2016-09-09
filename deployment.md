@@ -14,6 +14,7 @@
 * Zipfile management [PeaZip](https://sourceforge.net/projects/peazip)
 * Device simulation and testing: Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en)
 * File sharing: [Google Docs](https://www.google.com/docs/about)
+* Smart lossy compression: [TinyPNG](https://tinypng.com)
 
 ## Considered
 
