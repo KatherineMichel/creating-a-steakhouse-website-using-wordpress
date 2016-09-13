@@ -1,6 +1,6 @@
-# Potter Creek
+# Potter Creek Outfitters
 
-## Potter Creek Photos
+## Potter Creek Outfitters Photos
 
 ![](2013-06-03-14.40.55-1024x682.jpg)
 ![](2013-06-03-15.03.43-1024x682.jpg)

@@ -16,7 +16,7 @@ Table of Contents
   * [Mockup Design Variations](design/mockup-design-variations.md)
 * [Navbar](design/navbar.md)
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
-  * [Potter Creek](potter-creek/potter-creek.md)
+  * [Potter Creek Outfitters](potter-creek-outfitters/potter-creek-outfitters.md)
   * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
 * [Finished Website](finished-website/finished-website.md)
 
