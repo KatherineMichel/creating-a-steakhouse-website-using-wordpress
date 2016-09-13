@@ -27,5 +27,5 @@ Table of Contents
   * [Client Consultation and Feedback](client-and-users/client-consultation-and-feedback.md)
   * [User Feedback](client-and-users/user-feedback.md)
   * [Personas](appendix/personas.md) 
-  * [Potter Creek](potter-creek/potter-creek.md)
-  * [Preliminary Photos](appendix/preliminary-photos.md)
+  * [Potter Creek Photos](potter-creek/potter-creek-photos.md)
+  * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
