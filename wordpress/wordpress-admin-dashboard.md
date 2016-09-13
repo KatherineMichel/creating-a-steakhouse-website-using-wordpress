@@ -6,11 +6,13 @@ Website Admin Bar Example
 
 ![](images/website-admin-bar.jpg)
 
+Mobile Admin Dashboard Example
+
+![](images/mobile-admin-dashboard.jpg)
+
 Desktop Admin Dashboard Example
 
 ![](images/desktop-admin-dashboard.jpg)
 
-Mobile Admin Dashboard Example
 
-![](images/mobile-admin-dashboard.jpg)
 
