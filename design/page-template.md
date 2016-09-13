@@ -2,9 +2,9 @@
 
 Description
 * Boxed page background: wood panelling
-* Navbar: black with white text, brown on hover
+* Navbar: black (#000000) with white (#ffffff) text, golden-brown (#dd9933) on hover
 * Homepage header/detail page sections: white background
-* Footer: slate background; white text, brown on hover
+* Footer: slate background; light gray (#e0e0e0) text, golden-brown (#dd9933) on hover
 
 Without footer
 
