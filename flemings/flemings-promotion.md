@@ -1,7 +1,6 @@
 # Flemings- Promotion
 
 ![](images/home.jpg)
-![](images/about-us.jpg)
 ![](images/expertise.jpg)
 ![](images/menus.jpg)
 ![](images/private-dining.jpg)
