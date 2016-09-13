@@ -1,4 +1,4 @@
-# Preliminary Photos
+# Preliminary Restaurant Photos
 
 ## About Us- Building Front
 ![](preliminary-restaurant-photos/building-front-straight.JPG)
