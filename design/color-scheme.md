@@ -2,13 +2,13 @@
 
 ## Colors
 
-Black (#000000), golden-brown (#dd9933), green (#336601), white (#ffffff)
+Black (#000000), golden-brown (#dd9933), green (#336601), white (#ffffff), dark gray (#222222), gray (#666666), light gray (#e0e0e0)
 
 ![](images/layout-and-color-scheme/color-scheme.jpg)
 
 ## Black Color Theme
 
-The black color theme features a black (#000000) navbar and gray footer. Text is white (#ffffff), golden-brown (#dd9933) on hover.
+The black color theme features a black (#000000) navbar and dark gray (#222222) footer. Text is light gray (#e0e0e0), golden-brown (#dd9933) on hover.
 
 Navbar
 ![](images/layout-and-color-scheme/black-navbar.jpg)
@@ -24,7 +24,7 @@ Footer with mouse hovering over hyperlink
 
 ## White Color Theme
 
-The white color theme features a white (#ffffff) navbar and footer. Text is black (#000000), golden-brown (#dd9933) on hover.
+The white color theme features a white (#ffffff) navbar and footer. Text is gray (#666666), golden-brown (#dd9933) on hover.
 
 Navbar
 ![](images/layout-and-color-scheme/white-navbar.jpg)
