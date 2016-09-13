@@ -17,3 +17,5 @@ Menu example
 ![](restaurant-menu-page-2.jpg)
 
 ![](restaurant-menu-page-3.jpg)
+
+![](restaurant-menu-page-4.jpg)
