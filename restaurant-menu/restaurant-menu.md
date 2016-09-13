@@ -7,6 +7,7 @@ My recommendation to the client:
 * Highlight signature dishes in a Specialties detail page
 * Perhaps, upload a PDF weekly of the specials document posted on the restaurant doors
 * PDFs could be hosted through Google Docs with the shared link as a WordPress menu custom link
+* Downside: due to PDF file size, may work best on laptop/desktop
 
 Menu example
 
