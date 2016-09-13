@@ -8,6 +8,6 @@ Footer background: slate
 
 ![](images/layout-and-color-scheme/slate-background.jpg)
 
-Detail page content background: white
+Detail page content background: white (#ffffff)
 
 ![](images/layout-and-color-scheme/white-background.jpg)
