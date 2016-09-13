@@ -1,5 +1,7 @@
 # Preliminary Restaurant Photos
 
+Preliminary photos were taken of the restaurant to get an idea of what photos might be used on detail pages. In the future, preliminary photos may be replaced with higher quality ones. 
+
 ## About Us- Building Front
 ![](preliminary-restaurant-photos/building-front-straight.JPG)
 ![](preliminary-restaurant-photos/building-front-west.JPG)
