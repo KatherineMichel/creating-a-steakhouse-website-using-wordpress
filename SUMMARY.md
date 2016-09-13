@@ -14,10 +14,10 @@ Table of Contents
   * [Header Photo Shopping](design/header-photo-shopping.md)
   * [High Fidelity Prototype](design/high-fidelity-prototype.md)
   * [Mockup Design Variations](design/mockup-design-variations.md)
+  * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
 * [Navbar](design/navbar.md)
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
   * [Potter Creek Outfitters](potter-creek-outfitters/potter-creek-outfitters.md)
-  * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
 * [Finished Website](finished-website/finished-website.md)
 
 * [Secondary Functionality](design/secondary-functionality.md)
