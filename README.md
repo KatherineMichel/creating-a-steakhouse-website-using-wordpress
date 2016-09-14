@@ -22,6 +22,7 @@ Table of Contents
   * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
   * [Potter Creek Outfitters](potter-creek-outfitters/potter-creek-outfitters.md)
+  * [Local Partners](local-partners/local-partners.md)
 * [Secondary Functionality](design/secondary-functionality.md)
 * [Finished Website](finished-website/finished-website.md)
 
