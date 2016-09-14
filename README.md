@@ -22,9 +22,9 @@ Table of Contents
 * [Navbar](design/navbar.md)
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
   * [Potter Creek Outfitters](potter-creek-outfitters/potter-creek-outfitters.md)
+* [Secondary Functionality](design/secondary-functionality.md)
 * [Finished Website](finished-website/finished-website.md)
 
-* [Secondary Functionality](design/secondary-functionality.md)
 * [Promotion](promotion/promotion.md)
   * [Social Media](promotion/social-media.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
