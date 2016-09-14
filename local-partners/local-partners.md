@@ -11,13 +11,13 @@ Ubuntu Wine and Paint<br>
 Vineyard Band<br>
 ![](vineyard-band.jpg)
 
-Potter Creek Outfitters
+Potter Creek Outfitters<br>
 ![](potter-creek-outfitters.jpg)
 
-Pretty Prairie Rodeo
+Pretty Prairie Rodeo<br>
 ![](pretty-prairie-rodeo-edited.jpg)
 
-Pretty Prairie Pride Organization
+Pretty Prairie Pride Organization<br>
 ![](kansas-pride.jpg)
 
 
