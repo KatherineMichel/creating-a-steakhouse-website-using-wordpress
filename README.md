@@ -26,7 +26,6 @@ Table of Contents
 * [Finished Website](finished-website/finished-website.md)
 
 * [Promotion](promotion/promotion.md)
-  * [Social Media](promotion/social-media.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
 * [Facebook](appendix/facebook.md)
 * [Brand Fun](appendix/brand-fun.md)

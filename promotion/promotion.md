@@ -10,6 +10,8 @@
 
 ### SEO
 
+Bing and Yahoo versus Google
+
 ## Fliers
 
 ## Word of Mouth
