@@ -1,6 +1,6 @@
 # Promotion
 
-One or more of the following can be used for promotion
+Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). One or more of the following can be used to reach a larger audience.
 
 ### SEO
 
