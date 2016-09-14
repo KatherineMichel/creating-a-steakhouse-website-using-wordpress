@@ -2,6 +2,11 @@
 
 One or more of the following can be used for promotion
 
+### SEO
+
+* Bing and Yahoo (showed up quickly at top of results)
+* Google (slow)
+
 ## Website
 
 * Info Bar (theme plugin is not working; can use external plugin)
@@ -12,10 +17,11 @@ One or more of the following can be used for promotion
 
 * Social media sharing/liking
 
-### SEO
+## Online Ads
 
-* Bing and Yahoo (showed up quickly at top of results)
-* Google (slow)
+## Sponsorships
+
+## Merchandise
 
 ## Traditional
 
