@@ -5,10 +5,10 @@ One goal of the website is to highlight area talent, events, and attractions. Cu
 Kati Michel, Web Designer and Developer
 ![](small-desktop-black-theme-boxed-and-white-border.jpg)
 
-Ubuntu Wine and Paint
+Ubuntu Wine and Paint<br>
 ![](ubuntu.jpg)
 
-Vineyard Band
+Vineyard Band<br>
 ![](vineyard-band.jpg)
 
 Potter Creek Outfitters
