@@ -1,6 +1,6 @@
 # Secondary Functionality
 
-The client was advised of a additional functionality, some of which was deemed to be unnecessary, at least for now.
+The client was advised of additional functionality, some of which was deemed to be unnecessary, at least for now.
 
 ## Deemed Unnecessary
 
