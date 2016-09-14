@@ -1,25 +1,22 @@
 # Secondary Functionality
 
-## Social Media
+The client was advised of a additional functionality, some of which was deemed to be unnecessary, at least for now.
 
-* Sharing/liking
-* Google map- client felt unnecessary, thinks people are probably more likely to directly Google the restaurant or use GPS
+## Deemed Unnecessary
 
-## Communication
+* Google map- client felt people would be more likely to directly Google the restaurant or use GPS
+* Contact form- client felt patrons would be more likely to call/email and restaurant laptop is not in use all of the time
+* Reservations- client felt patrons would be more likely to call/email and restaurant laptop is not in use all of the time
 
-Both of these were deemed unnecessary at this time; patrons are more likely to call and restaurant laptop is not in use all the time
-* Contact form
-* Reservations
+## Deemed Possible
 
-## Promotion
+* Social media sharing/liking
 
-One or all of these may be used for promotion
-* Info bar
+Promotion: One or all of these may be used for promotion
+* Info bar (theme plugin is not working; can use external plugin)
 * Slide in Panel
 * Popup 
 
-## Plugins
-
-* Info bar plugin (theme plugin is not working; am using external plugin)
+Shop
 * WooCommerce, Quick Cart View (shop integration, in person/by mail, SSL certificate possibly needed)
-* SEO (Yoast perhaps)
+
