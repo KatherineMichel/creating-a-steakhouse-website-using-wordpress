@@ -17,18 +17,20 @@ One or more of the following can be used for promotion
 
 * Social media sharing/liking
 
-## Online Ads
-
-## Sponsorships
-
-## Merchandise
-
 ## Traditional
 
 * Fliers
 * Word of Mouth
-* Newspaper
+* Newspaper (local and metropolitan)
+
+## Online Ads
+
+* Google Ads, targeting
+* Facebook, Twitter ads
+
+## Sponsorships
 
 ## Shop
 
 * WooCommerce, Quick Cart View (shop integration, in person/by mail, SSL certificate possibly needed)
+* Clothes and Merchandise
