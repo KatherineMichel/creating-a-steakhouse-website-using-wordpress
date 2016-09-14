@@ -12,7 +12,7 @@ The client was advised of a additional functionality, some of which was deemed t
 
 * Social media sharing/liking
 
-Promotion: One or all of these may be used for promotion
+Promotion: one or all of these may be used for promotion
 * Info bar (theme plugin is not working; can use external plugin)
 * Slide in Panel
 * Popup 
