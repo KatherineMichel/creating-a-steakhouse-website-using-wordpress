@@ -1,1 +1,0 @@
-# Mockups- Detail Pages
