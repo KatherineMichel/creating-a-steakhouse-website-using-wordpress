@@ -1,6 +1,6 @@
 # Potter Creek Outfitters
 
-Potter Creek Outfitters is a nearby sister property to Pretty Prairie Steakhouse. A [flat iron steak](https://en.wikipedia.org/wiki/Flat_iron_steak) partnership between Potter Creek Outfitters and Pretty Prairie Steakhouse will be promoted on the Pretty Prairie Steakhouse site. 
+Potter Creek Outfitters is a nearby sister property to Pretty Prairie Steakhouse. A [flat iron steak](https://en.wikipedia.org/wiki/Flat_iron_steak) partnership between Potter Creek Outfitters and Pretty Prairie Steakhouse will be promoted on the Pretty Prairie Steakhouse site, including a gallery of Potter Creek Outfitters photos.
 
 ## Potter Creek Outfitters Photos
 
