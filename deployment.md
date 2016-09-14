@@ -37,7 +37,7 @@
 * Created special Apache server configuration via SSH and nano to enable upload of larger premium theme
 * Used local environment to test WordPress before implementing in host environment
 * Used Google Canary Chrome for device simulation for testing; also crowdsourced device testing
-* Use Yoast SEO Plugin, Google XML Sitemaps Generator Plugin and Google Webmaster for search indexing
+* Used Yoast SEO Plugin, Google XML Sitemaps Generator Plugin and Google Webmaster for search indexing
 
 Digital Ocean Specs
 
