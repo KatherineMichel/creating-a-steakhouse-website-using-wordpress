@@ -1,19 +1,28 @@
 # Promotion
 
+One or more of the following can be used for promotion
+
 ## Website
 
-* Info Bar
+* Info Bar (theme plugin is not working; can use external plugin)
 * Slide in Panel
 * Popup
 
 ## Facebook
 
+* Social media sharing/liking
+
 ### SEO
 
-Bing and Yahoo versus Google
+* Bing and Yahoo (showed up quickly at top of results)
+* Google (slow)
 
-## Fliers
+## Traditional
 
-## Word of Mouth
+* Fliers
+* Word of Mouth
+* Newspaper
 
-## Newspaper
+## Shop
+
+* WooCommerce, Quick Cart View (shop integration, in person/by mail, SSL certificate possibly needed)
