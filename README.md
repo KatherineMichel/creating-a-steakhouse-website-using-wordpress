@@ -18,6 +18,7 @@ Table of Contents
   * [Header Photo Shopping](design/header-photo-shopping.md)
   * [High Fidelity Prototype](design/high-fidelity-prototype.md)
   * [Mockup Design Variations](design/mockup-design-variations.md)
+  * [Detail Page Mockups](design/detail-page-mockups.md)
 * [Detail Page Content](design/detail-page-content.md)
   * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
