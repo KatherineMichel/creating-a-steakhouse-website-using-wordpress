@@ -1,10 +1,6 @@
 # Notes
 
 Body border color: white (#ffffff)
-Footer color: gray (#222222)
-Header background: black (#000000)
-Navbar font color: white (#ffffff)
-Navbar font hover color: brown (#dd9933)
 
 # Requirements
 
@@ -20,20 +16,17 @@ Project
 * Gallery (or use Facebook?)
 * Forms of payment accepted?
 * Highchairs?
-* Menus hosted through host such as Google Drive; abbreviated list of signature dishes on website call out
+* abbreviated list of signature dishes on website call out
 
 Layouts/Break Points
 
 HTML and CSS Mockups
 
 ## Photos
-* Front of steakhouse
-* Both rooms
-* Bar
 
 Todo 
+* Better bread pudding pic
 * Venue Hire areas
-* Plated food
 * Staff? 
 * Decor, memorabilia
 * Mural behind salad bar
@@ -143,16 +136,6 @@ WordPress
 
 Social media
 * Pinterest
-
-## Flourish
-
-Below the header text, I put a transparent image of flourished lines that would be reminsicent of the kind of trim embroidery you might find on a cowboy shirt or cowboy boots. 
-
-## Articles/In the News
-
-* Photo as inspiration: http://www.hutchnews.com/projects/progress/progress-a-small-town-s-prairie-survival-rodeo-just-part/article_3d11eaba-435c-5be2-8716-47b73a5e7558.html
-* http://www.kansasagland.com/news/rural_dining/reno-county-s-rural-eats/article_2fc51a72-f02b-5e3c-a052-8f45d9448277.html
-* http://hppr.org/post/secret-small-towns-success-good-food-and-rodeos#stream/0
 
 ## Lightning Demos
 
