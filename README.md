@@ -18,8 +18,8 @@ Table of Contents
   * [Header Photo Shopping](design/header-photo-shopping.md)
   * [High Fidelity Prototype](design/high-fidelity-prototype.md)
   * [Mockup Design Variations](design/mockup-design-variations.md)
+* [Detail Page Content](design/detail-page-content.md)
   * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
-* [Navbar](design/navbar.md)
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
   * [Potter Creek Outfitters](potter-creek-outfitters/potter-creek-outfitters.md)
 * [Secondary Functionality](design/secondary-functionality.md)
@@ -34,7 +34,7 @@ Table of Contents
   * [Client Consultation and Feedback](client-and-users/client-consultation-and-feedback.md)
   * [User Feedback](client-and-users/user-feedback.md)
   * [Personas](appendix/personas.md) 
-
+  
 GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-steakhouse-website-using-wordpress/
 <br> 
 GitHub repo: https://github.com/KatherineMichel/creating-a-steakhouse-website-using-wordpress
