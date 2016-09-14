@@ -8,6 +8,12 @@
 * Theme: [Sage from HighGrade Lab](http://www.highgradelab.com/sage)
 * SSH client: [PuTTY](http://www.putty.org) and Mac terminal
 
+## SEO
+
+* Webmaster: [Google Webmaster Tools](https://www.google.com/webmasters/tools)
+* General SEO: [Yoast SEO for WordPress Plugin](https://yoast.com/wordpress/plugins/seo)
+* XML Sitemap Generator: [Google XML Sitemap Generator Plugin](https://wordpress.org/plugins/google-sitemap-generator)
+
 ## Utilities
 
 * Photo shopping: [Gimp](https://www.gimp.org)
@@ -31,6 +37,7 @@
 * Created special Apache server configuration via SSH and nano to enable upload of larger premium theme
 * Used local environment to test WordPress before implementing in host environment
 * Used Google Canary Chrome for device simulation for testing; also crowdsourced device testing
+* Use Yoast SEO Plugin, Google XML Sitemaps Generator Plugin and Google Webmaster for search indexing
 
 Digital Ocean Specs
 
