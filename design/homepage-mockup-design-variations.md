@@ -56,6 +56,8 @@ Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-white-border.jpg)
 
+![](images/mockup-variations/mobile-white-theme-white-border.jpg)
+
 ## Boxed and White Border
 
 Small Desktop- Black Color Theme
