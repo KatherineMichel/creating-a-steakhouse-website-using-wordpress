@@ -11,6 +11,9 @@ The black color theme features a black (#000000) navbar with white (#ffffff) tex
 
 The white color theme features a white (#ffffff) navbar and footer. Text is gray (#666666), golden-brown (#dd9933) on hover.
 
+* See Page Template description
+* Homepage header: white (#ffffff) text and separator on quintessential steak dinner photo with photo shopped contrast
+
 ## Navbar Item Descriptions
 
 * Home: link to homepage of website
