@@ -10,7 +10,7 @@ Feature, with gallery below; four pictures to a row
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-gallery.jpg)
 
-Feature, with feature gallery below; three pictures to a row, with outline around each picture, heading for each picture
+Feature, with feature gallery below; large heading, separator, three pictures to a row, with outline around each picture, small heading for each picture
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-feature-gallery.jpg)
 
@@ -23,6 +23,8 @@ Custom heading and separator at the top-center of section
 ![](images/detail-page-layout-variations/detail-page-center-heading-features-with-headings.jpg)
 
 ### Gallery
+
+Traditional picture gallery; center heading, separator, four pictures to a row
 
 ![](images/detail-page-layout-variations/detail-page-center-heading-gallery.jpg)
 
