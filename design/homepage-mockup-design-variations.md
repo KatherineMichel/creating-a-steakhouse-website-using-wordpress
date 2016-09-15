@@ -18,11 +18,15 @@ Small Desktop- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-full-width.jpg)
 
+iPhone and iPad- Black Color Theme
+
 ![](images/homepage-mockup-design-variations/mobile-black-theme-full-width.jpg)
 
 Small Desktop- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-full-width.jpg)
+
+iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-full-width.jpg)
 
@@ -36,11 +40,15 @@ Small Desktop- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-boxed.jpg)
 
+iPhone and iPad- Black Color Theme
+
 ![](images/homepage-mockup-design-variations/mobile-black-theme-boxed.jpg)
 
 Small Desktop- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-boxed.jpg)
+
+iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-boxed.jpg)
 
@@ -50,11 +58,15 @@ Small Desktop- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-white-border.jpg)
 
+iPhone and iPad- Black Color Theme
+
 ![](images/homepage-mockup-design-variations/mobile-black-theme-white-border.jpg)
 
 Small Desktop- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-white-border.jpg)
+
+iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-white-border.jpg)
 
@@ -64,10 +76,14 @@ Small Desktop- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-boxed-and-white-border.jpg)
 
+iPhone and iPad- Black Color Theme
+
 ![](images/homepage-mockup-design-variations/mobile-black-theme-boxed-white-border.jpg)
 
 Small Desktop- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-boxed-and-white-border.jpg)
+
+iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-boxed-white-border.jpg)
