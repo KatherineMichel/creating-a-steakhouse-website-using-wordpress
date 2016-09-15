@@ -1,4 +1,4 @@
-# High Fidelity Prototype
+# High Fidelity Homepage Prototype
 
 ## Homepage
 
