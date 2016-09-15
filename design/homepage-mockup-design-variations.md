@@ -18,6 +18,8 @@ Small Desktop- Black Color Theme
 
 ![](images/mockup-variations/small-desktop-black-theme-full-width.jpg)
 
+![](images/mockup-variations/mobile-black-theme-full-width.jpg)
+
 Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-full-width.jpg)
