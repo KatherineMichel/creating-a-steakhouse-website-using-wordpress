@@ -28,7 +28,7 @@ Small Desktop, iPhone, and iPad- White Color Theme
 
 ## Boxed
 
-Large Desktop, Small Desktop, iPhone and iPad- Black Color Theme
+Large Desktop, Small Desktop, iPhone, and iPad- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/large-desktop-black-theme-boxed.jpg)
 
