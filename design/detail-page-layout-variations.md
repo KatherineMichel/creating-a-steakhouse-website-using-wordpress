@@ -2,15 +2,15 @@
 
 ## Feature Section
 
-Full picture on left (no outline), with custom heading, separator, and text block on the right
+On the left, full picture (no outline); on the right, custom heading, separator, and text block
 
 ![](images/detail-page-layout-variations/detail-page-feature.jpg)
 
-Four pictures to a row (outline)
+Feature, with gallery below; four pictures to a row, with outline around each picture
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-gallery.jpg)
 
-Three pictures to a row, heading for each
+Feature, with feature gallery below; three pictures to a row, heading for each
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-feature-gallery.jpg)
 
