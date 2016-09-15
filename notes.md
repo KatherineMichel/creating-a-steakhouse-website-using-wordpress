@@ -11,6 +11,13 @@ The black color theme features a black (#000000) navbar with white (#ffffff) tex
 
 The white color theme features a white (#ffffff) navbar and footer. Text is gray (#666666), golden-brown (#dd9933) on hover.
 
+Description
+* Boxed page background: wood panelling
+* Navbar: black (#000000) with white (#ffffff) text, golden-brown (#dd9933) on hover
+* Homepage header/detail page sections: white (#ffffff) background
+* Detail page sections: white (#ffffff) background, with text and photo grids that vary in layout depending on page
+* Small footer: slate background; light gray (#e0e0e0) text, golden-brown (#dd9933) on hover
+
 * See Page Template description
 * Homepage header: white (#ffffff) text and separator on quintessential steak dinner photo with photo shopped contrast
 
