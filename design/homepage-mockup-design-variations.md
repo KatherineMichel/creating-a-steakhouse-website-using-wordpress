@@ -24,6 +24,8 @@ Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-full-width.jpg)
 
+![](images/mockup-variations/mobile-white-theme-full-width.jpg)
+
 ## Boxed
 
 Large Desktop- Black Color Theme
