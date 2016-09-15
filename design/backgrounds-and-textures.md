@@ -4,7 +4,7 @@ Boxed page background: wood
 
 ![](images/layout-and-color-scheme/wood-background.jpg)
 
-Footer background: slate
+Large footer background: slate
 
 ![](images/layout-and-color-scheme/slate-background.jpg)
 
