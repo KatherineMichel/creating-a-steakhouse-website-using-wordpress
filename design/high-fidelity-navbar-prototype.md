@@ -4,6 +4,4 @@ The navbar mockup presented to the client contains links to traditional content 
 
 High Fidelity Navbar Prototype
 ![](images/navbar.jpg)
-
-Navbar Drawing with Descriptions
 ![](images/navbar-drawing.jpg)
