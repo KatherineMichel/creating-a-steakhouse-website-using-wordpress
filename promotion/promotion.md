@@ -2,6 +2,18 @@
 
 Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). One or more of the following can be used to reach a larger audience.
 
+## Audiences
+
+* Pretty Prairie residents
+* Residents of nearby towns
+* Destination seekers
+
+## Reputation/Buzz/Brand
+
+* Quality food and service
+* Awareness
+* Rustic/quaint reputation (ex. Yoder)
+
 ## Online Promotion
 
 ### SEO (Search Engine Optimization)
@@ -14,24 +26,21 @@ The website (with and without www) was submitted to all three major search engin
 * Slide in Panel
 * Popup
 
+## Facebook
+
+* Social media sharing/liking
+
 ## Online Ads
 
 * Google Ads, targeting
 * Facebook, Twitter ads
 
-## Reputation/Buzz/Brand
-
-* Quality food and service
-* Awareness
-* Rustic/quaint reputation (ex. Yoder)
-
 ## Traditional
 
 * Fliers
 * Word of Mouth
-* Newspaper (local and metropolitan)
-
-## Sponsorships
+* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
+* Sponsorships (events, radio spots/contests, etc.)
 
 ## Shop
 
