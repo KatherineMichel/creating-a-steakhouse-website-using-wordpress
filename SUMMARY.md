@@ -26,7 +26,7 @@ Table of Contents
 
 * [Promotion](promotion/promotion.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
-  * [Facebook](appendix/facebook.md)
+  * [Facebook](promotion/facebook.md)
   * [Brand Fun](appendix/brand-fun.md)
 * [Appendix](appendix/appendix.md)
   * [Client Consultation and Feedback](client-and-users/client-consultation-and-feedback.md)
