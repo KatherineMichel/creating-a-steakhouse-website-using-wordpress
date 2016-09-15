@@ -50,6 +50,8 @@ Small Desktop- Black Color Theme
 
 ![](images/mockup-variations/small-desktop-black-theme-white-border.jpg)
 
+![](images/mockup-variations/mobile-black-theme-white-border.jpg)
+
 Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-white-border.jpg)
