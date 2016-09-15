@@ -14,76 +14,58 @@ Small Desktop- Transparent Navbar
 
 ![](images/homepage-mockup-design-variations/laptop-no-navbar.jpg)
 
-Small Desktop- Black Color Theme
+Small Desktop, iPhone, and iPad- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-full-width.jpg)
 
-iPhone and iPad- Black Color Theme
-
 ![](images/homepage-mockup-design-variations/mobile-black-theme-full-width.jpg)
 
-Small Desktop- White Color Theme
+Small Desktop, iPhone, and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-full-width.jpg)
-
-iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-full-width.jpg)
 
 ## Boxed
 
-Large Desktop- Black Color Theme
+Large Desktop, Small Desktop, iPhone and iPad- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/large-desktop-black-theme-boxed.jpg)
 
-Small Desktop- Black Color Theme
-
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-boxed.jpg)
-
-iPhone and iPad- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-black-theme-boxed.jpg)
 
-Small Desktop- White Color Theme
+Small Desktop, iPhone, and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-boxed.jpg)
-
-iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-boxed.jpg)
 
 ## White Border
 
-Small Desktop- Black Color Theme
+Small Desktop, iPhone, and iPad- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-white-border.jpg)
 
-iPhone and iPad- Black Color Theme
-
 ![](images/homepage-mockup-design-variations/mobile-black-theme-white-border.jpg)
 
-Small Desktop- White Color Theme
+Small Desktop, iPhone, and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-white-border.jpg)
-
-iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-white-border.jpg)
 
 ## Boxed and White Border
 
-Small Desktop- Black Color Theme
+Small Desktop, iPhone, and iPad- Black Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-boxed-and-white-border.jpg)
 
-iPhone and iPad- Black Color Theme
-
 ![](images/homepage-mockup-design-variations/mobile-black-theme-boxed-white-border.jpg)
 
-Small Desktop- White Color Theme
+Small Desktop, iPhone, and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-boxed-and-white-border.jpg)
-
-iPhone and iPad- White Color Theme
 
 ![](images/homepage-mockup-design-variations/mobile-white-theme-boxed-white-border.jpg)
