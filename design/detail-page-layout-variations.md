@@ -1,4 +1,4 @@
-# Detail Page Variations
+# Detail Page Layout Variations
 
 ## Feature Section
 
