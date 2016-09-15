@@ -1,8 +1,6 @@
 # High Fidelity Homepage Prototype
 
-Layout
-* See Page Template description
-* Homepage header: white (#ffffff) text and separator on quintessential steak dinner photo with photo shopped contrast
+Page template with large footer, homepage header of quintessential steak dinner photo with photo shopped contrast, and white text and separator
 
 ![](images/high-fidelity-prototype.jpg)
 
