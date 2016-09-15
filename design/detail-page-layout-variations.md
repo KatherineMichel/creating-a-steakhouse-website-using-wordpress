@@ -6,11 +6,11 @@ On the left, full picture (no outline); on the right, custom heading, separator,
 
 ![](images/detail-page-layout-variations/detail-page-feature.jpg)
 
-Feature, with gallery below; four pictures to a row, with outline around each picture
+Feature, with gallery below; four pictures to a row
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-gallery.jpg)
 
-Feature, with feature gallery below; three pictures to a row, heading for each
+Feature, with feature gallery below; three pictures to a row, with outline around each picture, heading for each picture
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-feature-gallery.jpg)
 
