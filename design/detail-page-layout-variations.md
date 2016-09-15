@@ -20,13 +20,13 @@ Top-center, custom heading, separator; on the left, full picture (no outline); o
 
 ## Feature Section with Gallery
 
-Feature, with gallery below; four pictures to a row
+Feature, with gallery below, four pictures to a row
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-gallery.jpg)
 
 ## Feature Section with Feature Gallery
 
-Feature, with feature gallery below; large heading, separator, three pictures to a row, with outline around each picture, small heading for each picture
+Feature, with feature gallery below: large heading, separator, three pictures to a row, with outline around each picture, small heading for each picture
 
 ![](images/detail-page-layout-variations/detail-page-feature-with-feature-gallery.jpg)
 
