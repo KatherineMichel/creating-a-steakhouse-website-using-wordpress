@@ -3,6 +3,10 @@
 High Fidelity Navbar Prototype
 ![](images/navbar.jpg)
 
+Black (#000000), golden-brown (#dd9933), green (#336601), dark gray (#222222), gray (#666666), light gray (#e0e0e0), white (#ffffff)
+
+![](images/layout-and-color-scheme/color-scheme.jpg)
+
 ## Navbar Item Descriptions
 
 * Home: link to homepage of website
