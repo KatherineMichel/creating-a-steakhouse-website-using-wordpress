@@ -16,11 +16,12 @@ Four pictures to a row (outline)
 
 ### Header
 
+![](images/detail-page-layout-variations/detail-page-center-heading-feature-with-heading.jpg)
+![](images/detail-page-layout-variations/detail-page-center-heading-feature.jpg)
+![](images/detail-page-layout-variations/detail-page-center-heading-features-with-headings.jpg)
+![](images/detail-page-layout-variations/?)
+![](images/detail-page-layout-variations/detail-page-feature-with-feature-gallery.jpg)
+![](images/detail-page-layout-variations/detail-page-feature-with-gallery.jpg)
+![](images/detail-page-layout-variations/detail-page-feature.jpg)
 
-detail-page-center-heading-feature-with-heading.jpg
-detail-page-center-heading-feature.jpg
-detail-page-center-heading-features-with-headings.jpg
-detail-page-center-heading-gallery.jpg
-detail-page-feature-with-feature-gallery.jpg
-detail-page-feature-with-gallery.jpg
-detail-page-feature.jpg
+
