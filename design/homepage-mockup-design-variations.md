@@ -1,6 +1,6 @@
-# Mockup Design Variations
+# Homepage Mockup Design Variations
 
-While choosing what I believe to be the optimal design, I came up with a number of variations, at the request of the client. Frankly, I think all of these options are beautiful, and choosing one is difficult! Though I believe the black color theme is most fitting for the steakhouse, the white color theme offers a brighter option. One compromise would be to occasionally change the color theme or layout, for instance, by season.<br>
+While choosing what I believe to be the optimal homepage design, I came up with a number of variations, at the request of the client. Frankly, I think all of these options are beautiful, and choosing one is difficult! Though I believe the black color theme is most fitting for the steakhouse, the white color theme offers a brighter option. One compromise would be to occasionally change the color theme or layout, for instance, by season.<br>
 
 For the boxed version only, the layout is different on a large desktop than on a small desktop. However, users are more likely to view the website on mobile, laptop and small desktop.<br>
 
