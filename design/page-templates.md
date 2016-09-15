@@ -2,12 +2,7 @@
 
 ## Homepage Templates
 
-Description
-* Boxed page background: wood panelling
-* Navbar: black (#000000) with white (#ffffff) text, golden-brown (#dd9933) on hover
-* Homepage header/detail page sections: white (#ffffff) background
-* Detail page sections: white (#ffffff) background, with text and photo grids that vary in layout depending on page
-* Small footer: slate background; light gray (#e0e0e0) text, golden-brown (#dd9933) on hover
+Black color theme with a boxed page background of wood panelling and large footer background of slate. Homepage will have a photo header and detail page sections will be white background with text and photo grids that vary in layout depending on page. 
 
 Without large footer
 
