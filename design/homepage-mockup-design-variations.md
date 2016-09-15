@@ -34,6 +34,8 @@ Small Desktop- Black Color Theme
 
 ![](images/mockup-variations/small-desktop-black-theme-boxed.jpg)
 
+![](images/mockup-variations/mobile-black-theme-boxed.jpg)
+
 Small Desktop- White Color Theme
 
 ![](images/mockup-variations/small-desktop-white-theme-boxed.jpg)
