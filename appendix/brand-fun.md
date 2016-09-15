@@ -12,7 +12,9 @@
 
 ## Hypothetical Merchandise
 
-### T-Shirts
+### Crowdsourced T-shirts
+
+* [TeeSpring](https://teespring.com)
 
 ### Hoodies
 
