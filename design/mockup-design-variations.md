@@ -6,7 +6,7 @@ For the boxed version only, the layout is different on a large desktop than on a
 
 The header photo, which is used with permission of the [Hutchinson News](http://www.hutchnews.com), was taken from a [Hutchinson News story](http://www.hutchnews.com/projects/progress/progress-a-small-town-s-prairie-survival-rodeo-just-part/article_3d11eaba-435c-5be2-8716-47b73a5e7558.html) about the Pretty Prairie Steakhouse. 
 
-Note the large footer is left out of the mockups to save space
+The large footer is left out of the mockups to save space.
 
 ## Full Width
 
