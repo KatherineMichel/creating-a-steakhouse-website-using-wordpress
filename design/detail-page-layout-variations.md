@@ -24,7 +24,7 @@ Custom heading and separator at the top-center of section
 
 ### Gallery
 
-Traditional picture gallery; center heading, separator, four pictures to a row
+Traditional picture gallery; top-center heading, separator, four pictures to a row
 
 ![](images/detail-page-layout-variations/detail-page-center-heading-gallery.jpg)
 
