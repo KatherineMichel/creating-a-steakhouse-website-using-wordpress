@@ -38,7 +38,7 @@ Top-center, custom heading, separator; features below
 
 ## Gallery
 
-Top-center, custom heading, separator; below, picture gallery; four pictures to a row
+Top-center, custom heading, separator; below, picture gallery, four pictures to a row
 
 ![](images/detail-page-layout-variations/detail-page-center-heading-gallery.jpg)
 
