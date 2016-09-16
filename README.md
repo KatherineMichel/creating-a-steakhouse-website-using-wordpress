@@ -28,15 +28,15 @@ Table of Contents
 * [Secondary Functionality](design/secondary-functionality.md)
 * [Finished Website](finished-website/finished-website.md)
 
+* [User Research](client-and-users/user-research.md)
+  * [Personas](appendix/personas.md) 
 * [Promotion](promotion/promotion.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
   * [Facebook Profile](promotion/facebook-profile.md)
-  * [Brand Fun](appendix/brand-fun.md)
+* [Brand Fun](appendix/brand-fun.md)
 * [Appendix](appendix/appendix.md)
   * [Client Consultation and Feedback](client-and-users/client-consultation-and-feedback.md)
-  * [User Research](client-and-users/user-research.md)
-  * [Personas](appendix/personas.md) 
-  
+
 GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-steakhouse-website-using-wordpress/
 <br> 
 GitHub repo: https://github.com/KatherineMichel/creating-a-steakhouse-website-using-wordpress
