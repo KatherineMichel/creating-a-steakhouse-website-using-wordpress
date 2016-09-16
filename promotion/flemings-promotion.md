@@ -1,17 +1,17 @@
 # Flemings- Promotion
 
-![](images/home.jpg)
-![](images/expertise.jpg)
-![](images/menus.jpg)
-![](images/private-dining.jpg)
+![](flemings-images/home.jpg)
+![](flemings-images/expertise.jpg)
+![](flemings-images/menus.jpg)
+![](flemings-images/private-dining.jpg)
 
-![](images/filet-lobster.jpg)
+![](flemings-images/filet-lobster.jpg)
 
-![](images/prime-rib-ad.jpg)
+![](flemings-images/prime-rib-ad.jpg)
 
-![](images/dine-rewards.jpg)
-![](images/gift-cards.jpg)
-![](images/friend-of-flemings.jpg)
-![](images/guest-satisfaction-survey.jpg)
+![](flemings-images/dine-rewards.jpg)
+![](flemings-images/gift-cards.jpg)
+![](flemings-images/friend-of-flemings.jpg)
+![](flemings-images/guest-satisfaction-survey.jpg)
 
 
