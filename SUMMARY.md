@@ -30,5 +30,5 @@ Table of Contents
   * [Brand Fun](appendix/brand-fun.md)
 * [Appendix](appendix/appendix.md)
   * [Client Consultation and Feedback](client-and-users/client-consultation-and-feedback.md)
-  * [User Feedback](client-and-users/user-feedback.md)
+  * [User Research](client-and-users/user-research.md)
   * [Personas](appendix/personas.md) 
