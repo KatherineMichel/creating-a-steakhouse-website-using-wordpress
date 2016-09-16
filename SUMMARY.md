@@ -31,3 +31,4 @@ Table of Contents
   * [Facebook Profile](promotion/facebook-profile.md)
 * [Brand Fun](brand-fun.md)
 * [Client Consultation and Feedback](client-consultation-and-feedback.md)
+* [Lessons Learned](lessons-learned.md)
