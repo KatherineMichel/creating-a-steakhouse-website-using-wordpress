@@ -25,7 +25,7 @@ Table of Contents
 * [Finished Website](finished-website/finished-website.md)
 
 * [User Research](client-and-users/user-research.md)
-  * [Personas](appendix/personas.md) 
+  * [Personas](client-and-users/personas.md) 
 * [Promotion](promotion/promotion.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
   * [Facebook Profile](promotion/facebook-profile.md)
