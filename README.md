@@ -21,21 +21,21 @@ Table of Contents
   * [Homepage Mockup Design Variations](design/homepage-mockup-design-variations.md)
   * [Navbar Mockup](design/navbar-mockup.md)
 * [Detail Page Content](design/detail-page-content.md)
-  * [Preliminary Restaurant Photos](appendix/preliminary-restaurant-photos.md)
+  * [Preliminary Restaurant Photos](preliminary-restaurant-photos/preliminary-restaurant-photos.md)
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
   * [Potter Creek Outfitters](potter-creek-outfitters/potter-creek-outfitters.md)
   * [Local Partners](local-partners/local-partners.md)
 * [Secondary Functionality](design/secondary-functionality.md)
 * [Finished Website](finished-website/finished-website.md)
 
-* [User Research](client-and-users/user-research.md)
-  * [Personas](appendix/personas.md) 
+* [User Research](user-research/user-research.md)
+  * [Personas](user-research/personas.md) 
 * [Promotion](promotion/promotion.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
   * [Facebook Profile](promotion/facebook-profile.md)
-* [Brand Fun](appendix/brand-fun.md)
+* [Brand Fun](brand-fun.md)
 * [Appendix](appendix/appendix.md)
-  * [Client Consultation and Feedback](client-and-users/client-consultation-and-feedback.md)
+  * [Client Consultation and Feedback](client-consultation-and-feedback.md)
 
 GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-steakhouse-website-using-wordpress/
 <br> 
