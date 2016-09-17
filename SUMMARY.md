@@ -25,6 +25,7 @@ Table of Contents
 * [Finished Website](finished-website/finished-website.md)
 
 * [User Research](user-research/user-research.md)
+  * [Google Form](user-research/google-form.md) 
   * [Personas](user-research/personas.md) 
 * [Promotion](promotion/promotion.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
