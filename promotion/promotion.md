@@ -1,18 +1,21 @@
 # Promotion
 
-Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). One or more of the following can be used to reach a larger audience.
+Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). It is probable that "locals" will tend to frequent the restaurant due to the convenience of close proximity. It is probable that residents of surrounding towns might occassionally travel to Pretty Prairie to eat at the restaurant if the food and service are reliably good. How can the restaurant increase the likelihood that locals and residents of surrounding towns will eat there? And, can the restaurant attract people who live further away, or even make money online? One or more of the following can be used to reach a larger audience.
 
 ## Audiences
 
-* Pretty Prairie residents
-* Residents of nearby towns
-* Destination seekers
+* Pretty Prairie residents ("locals")
+* Residents of surrounding towns
+* People who live further away/Destination seekers
+* Online customers
 
 ## Reputation/Buzz/Brand
 
 * Quality food and service
 * Awareness
 * Rustic/quaint reputation (ex. Yoder)
+
+Examples
 
 ## Online Promotion
 
