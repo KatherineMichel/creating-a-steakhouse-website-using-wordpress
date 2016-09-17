@@ -35,7 +35,7 @@ Table of Contents
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
   * [Facebook Profile](promotion/facebook-profile.md)
 * [Brand Fun](brand-fun.md)
-* [Client Consultation and Feedback](client-consultation-and-feedback.md)
+* [Client Consultation and Feedback](client-consultation-and-input.md)
 * [Lessons Learned](lessons-learned.md)
 
 GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-steakhouse-website-using-wordpress/
