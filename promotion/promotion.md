@@ -16,6 +16,8 @@ Pretty Prairie, Kansas is what is known as a destination (a place that non-resid
 
 ## Online Promotion
 
+* Facebook post share contest to win free item
+
 ### SEO (Search Engine Optimization)
 
 The website (with and without www) was submitted to all three major search engines (Google, Bing, and Yahoo). For a search of "Pretty Prairie Kansas steakhouse," the website was immediately the top result in Bing and Yahoo. Results are still pending for Google, which may be more competitive. Ranking can be improved in Google through SEO best practice and clicks.
