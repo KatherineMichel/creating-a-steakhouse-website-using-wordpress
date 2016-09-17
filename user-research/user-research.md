@@ -3,8 +3,7 @@
 ## Possible Methods
 
 Some potential methods of user research to gather feedback
-* Information bar at the bottom of the website screen
-* Google forms survey
+* Online survey
 * Ask patrons in the restaurant
 * Man on the street
 
