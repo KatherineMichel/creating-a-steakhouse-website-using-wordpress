@@ -1,6 +1,67 @@
 # Notes
 
+# Requirements
+
+Project
+* requirements gathering/capture
+
 # Detail Page Notes
+
+## Posible functionality and information
+
+* Gallery (or use Facebook?)
+* Forms of payment accepted?
+* Highchairs?
+* abbreviated list of signature dishes on website call out
+
+## Photos
+
+Todo 
+* Better bread pudding pic
+* Venue Hire areas
+* Staff? 
+* Decor, memorabilia
+* Mural behind salad bar
+
+## Optimization, Testing
+
+Cross browser compatibility testing
+Mobile device testing, responsive design
+Speed testing
+Background images, colors, page design
+Fonts
+Drop down menus for complex page hierarchies
+
+* Parallax scrolling, animations
+
+* SEO ready: proper code formatting for better scoring from Google
+* Retina ready: vector graphics and @2x files for full retina/HiDPI compatibility
+* Good content
+
+Extras
+* Quick cart view
+
+* Facebook like
+* Tweetmeme button
+
+Social media
+* Pinterest
+
+Video player
+Media grid
+Post masonry grid
+Masonry media grid
+Contact Form 7
+Revolutions slider
+Essential grid
+Resolution slider 3
+HGR Testimonials
+HGR Google map
+HGR Logo Carousel
+HGR Mailchimp Collector
+HGR minimal form
+
+* WP Calendar
 
 ## About
 
@@ -15,7 +76,7 @@ Details
 
 ## Specialties
 
-* Steaks (how prepared, prime rib slow-cooked in special oven)
+* Steaks (how prepared, prime rib special oven)
 * Other special foods/recipes (homemade thousand island salad dressing, peach custard pie, Alta Potter chocolate cake)
 
 ## Lil' Rascals Lounge
@@ -49,81 +110,13 @@ Details
 Possible sales items
 * Merchandise
 * Gift cards
-* Food items (pies)
+* Food items (pies, for example)
 
 ## Contact
 
 * Link to footer?
 * Contact form through site?
 * Email?
-
-
-Body border color: white (#ffffff)
-
-# Requirements
-
-Project
-* requirements gathering/capture
-* admin training
-
-## Posible functionality and information
-
-* Gallery (or use Facebook?)
-* Forms of payment accepted?
-* Highchairs?
-* abbreviated list of signature dishes on website call out
-
-## Photos
-
-Todo 
-* Better bread pudding pic
-* Venue Hire areas
-* Staff? 
-* Decor, memorabilia
-* Mural behind salad bar
-
-Cross browser compatibility testing
-Mobile device testing, responsive design
-Speed testing
-Background images, colors, page design
-Fonts
-Drop down menus for complex page hierarchies
-
-* Parallax scrolling, animations
-
-* SEO ready: proper code formatting for better scoring from Google
-* Retina ready: vector graphics and @2x files for full retina/HiDPI compatibility
-* Translation: WPML compatible, .mo and .po files that can be edited for instance using PO Edit
-* Good content
-
-Extras
-* Quick cart view
-
-* Facebook like
-* Tweetmeme button
-
-Social media
-* Pinterest
-
-Image gallery
-Image carousel
-Tour
-Video player
-Google maps
-Media grid
-Post masonry grid
-Masonry media grid
-Contact Form 7
-Revolutions slider
-Essential grid
-Resolution slider 3
-HGR Testimonials
-HGR Google map
-HGR Logo Carousel
-HGR Mailchimp Collector
-HGR minimal form
-
-* WP Calendar
 
 ## Lightning Demos
 
@@ -313,3 +306,5 @@ Description
 
 * See Page Template description
 * Homepage header: white (#ffffff) text and separator on quintessential steak dinner photo with photo shopped contrast
+
+Body border color: white (#ffffff)
