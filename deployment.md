@@ -70,6 +70,6 @@ And server restart
 
 I was then able to upload and activate the theme without incident. 
 
-### mysql Restart
+### MySQL Restart
 
     $ service mysql restart
