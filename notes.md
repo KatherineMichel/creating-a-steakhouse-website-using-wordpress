@@ -5,15 +5,6 @@
 Project
 * requirements gathering/capture
 
-# Detail Page Notes
-
-## Posible functionality and information
-
-* Gallery (or use Facebook?)
-* Forms of payment accepted?
-* Highchairs?
-* abbreviated list of signature dishes on website call out
-
 ## Photos
 
 Todo 
@@ -47,21 +38,33 @@ Extras
 Social media
 * Pinterest
 
-Video player
 Media grid
 Post masonry grid
 Masonry media grid
-Contact Form 7
-Revolutions slider
+
 Essential grid
+Revolutions slider
 Resolution slider 3
-HGR Testimonials
+
 HGR Google map
+
+HGR Testimonials
 HGR Logo Carousel
+
+Contact Form 7
 HGR Mailchimp Collector
 HGR minimal form
 
 * WP Calendar
+
+## Posible Information
+
+* Gallery (or use Facebook?)
+* Forms of payment accepted?
+* Highchairs?
+* abbreviated list of signature dishes on website call out
+
+# Detail Page Notes
 
 ## About
 
