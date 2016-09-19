@@ -5,7 +5,6 @@
 ## About
 
 Details
-* Owner
 * Info about staff/photo?
 * Pretty Prairie Steakhouse in the news?
 
@@ -45,12 +44,6 @@ Details
 * How to contact
 * Cost
 
-## Potter Creek
-
-Potter Creek Outfitters
-* Sister property
-* Flat-iron steaks
-
 ## Shop
 
 Possible sales items
@@ -71,10 +64,7 @@ Body border color: white (#ffffff)
 
 Project
 * requirements gathering/capture
-* mockups
-* website design and deployment
 * admin training
-* user feedback
 
 ## Posible functionality and information
 
@@ -82,10 +72,6 @@ Project
 * Forms of payment accepted?
 * Highchairs?
 * abbreviated list of signature dishes on website call out
-
-Layouts/Break Points
-
-HTML and CSS Mockups
 
 ## Photos
 
@@ -96,18 +82,14 @@ Todo
 * Decor, memorabilia
 * Mural behind salad bar
 
-* Cross browser compatible
-* Speed optimization for best performance on all environments
-* Fully responsive layout, based on Bootstrap; mobile first
-* One-page layout structure, multi-page layout, or combination of the two
-* Drop-down menus for complex page hierarchies
-* Pages: control height and paddings, and background color
-* Color personalization
+Cross browser compatibility testing
+Mobile device testing, responsive design
+Speed testing
+Background images, colors, page design
+Fonts
+Drop down menus for complex page hierarchies
 
 * Parallax scrolling, animations
-* Google fonts integration
-* Font awesome icon integration
-* Background: color, photo?
 
 * SEO ready: proper code formatting for better scoring from Google
 * Retina ready: vector graphics and @2x files for full retina/HiDPI compatibility
