@@ -49,6 +49,8 @@ Digital Ocean Specs
     Datacenter region: New York
     Backup
 
+## Trouble Shooting
+
 ### Theme Installation
 
 Apache server file access via SSH and nano
@@ -68,6 +70,6 @@ And server restart
 
 I was then able to upload and activate the theme without incident. 
 
-## mysql Restart
+### mysql Restart
 
     $ service mysql restart
