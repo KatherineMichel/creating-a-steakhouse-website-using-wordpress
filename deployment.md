@@ -74,10 +74,14 @@ I was then able to upload and activate the theme without incident.
 
 https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-wordpress
 https://www.digitalocean.com/community/tutorials/how-to-protect-wordpress-from-xml-rpc-attacks-on-ubuntu-14-04
+https://jetpack.com/2015/10/12/jetpack-protection-from-brute-force-xml-rpc-attacks/
+https://jetpack.com/support/security-features
 
 MySQL Restart
 
     $ service mysql restart
+
+    $ grep xmlrpc /var/log/apache2/access.log
 
     $ sudo a2enconf block-xmlrpc
     $ sudo service apache2 restart
