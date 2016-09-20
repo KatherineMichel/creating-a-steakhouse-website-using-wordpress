@@ -84,15 +84,15 @@ I first accessed the log to verify that an attack of this type had been carried 
 
     $ grep xmlrpc /var/log/apache2/access.log
 
-The log showed that many 
-
-I then put a fix in place to block this kind of attack 
+The log showed that many requests had taken place. I then put a fix in place to block this kind of attack 
 
     $ sudo a2enconf block-xmlrpc
 
 Finally, I restarted Apache for the fix to take effect
 
     $ sudo service apache2 restart
+
+Though the requests would continue to show in the log, the code would no longer be 200. 
 
 One caveat to the approach that I used is that any service that utilizes XML-RPC will be prevented from functioning, including Jetpack or the WordPress mobile app. Though this website is not using Jetpack, if it were, another option would be to use a Jetpack security feature as outlined in the article [Jetpack Protection From Brute Force XML-RPC Attacks](https://jetpack.com/2015/10/12/jetpack-protection-from-brute-force-xml-rpc-attacks).
 
