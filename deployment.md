@@ -72,6 +72,12 @@ I was then able to upload and activate the theme without incident.
 
 ### Downtime
 
+https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-wordpress
+https://www.digitalocean.com/community/tutorials/how-to-protect-wordpress-from-xml-rpc-attacks-on-ubuntu-14-04
+
 MySQL Restart
 
     $ service mysql restart
+
+    $ sudo a2enconf block-xmlrpc
+    $ sudo service apache2 restart
