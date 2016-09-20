@@ -78,11 +78,13 @@ I was able to immediately restart MySQL and the website immediately worked again
 
     $ service mysql restart
 
-I hoped that this would be a one-time error. However, twice in the next few days, in the morning I clicked on the site and the error was displayed again. I did some research and it turned out that XML-RPC attacks were being carried out against the website. This is a malicious, "brute force" attack in which thousands of requests are sent to a website in a short amount of time, rendering the database unresponsive. I used guidance from the Digital Ocean article [How To Protect WordPress from XML-RPC Attacks on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-wordpress-from-xml-rpc-attacks-on-ubuntu-14-04) to protect the website from this kind of attack. 
+I hoped that this would be a one-time error. However, on two consecutive mornings soon after, I clicked on the site and the error was displayed again. I did some research and it turned out that XML-RPC attacks were being carried out against the website. This is a malicious, "brute force" attack in which thousands of requests are sent to a website in a short amount of time, rendering the database unresponsive. I used guidance from the Digital Ocean article [How To Protect WordPress from XML-RPC Attacks on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-wordpress-from-xml-rpc-attacks-on-ubuntu-14-04) to protect the website from this kind of attack. 
 
 I first accessed the log to verify that an attack of this type had been carried out against the site
 
     $ grep xmlrpc /var/log/apache2/access.log
+
+The log showed that many 
 
 I then put a fix in place to block this kind of attack 
 
@@ -92,6 +94,9 @@ Finally, I restarted Apache for the fix to take effect
 
     $ sudo service apache2 restart
 
-https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-wordpress
-https://jetpack.com/2015/10/12/jetpack-protection-from-brute-force-xml-rpc-attacks/
-https://jetpack.com/support/security-features
+One caveat to the approach that I used is that any service that utilizes XML-RPC will be prevented from functioning, including Jetpack or the WordPress mobile app. Though this website is not using Jetpack, if it were, another option would be to use a Jetpack security feature as outlined in the article [Jetpack Protection From Brute Force XML-RPC Attacks](https://jetpack.com/2015/10/12/jetpack-protection-from-brute-force-xml-rpc-attacks).
+
+For further reference:
+* ["Error establishing a database connection (WordPress)"](https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-wordpress)
+* [Jetpack Security Features](https://jetpack.com/support/security-features)
+* [Sucuru "Brute Force Amplification Attacks Against WordPress XMLRPC"](https://blog.sucuri.net/2015/10/brute-force-amplification-attacks-against-wordpress-xmlrpc.html)
