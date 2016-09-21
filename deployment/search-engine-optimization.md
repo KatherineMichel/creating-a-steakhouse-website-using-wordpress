@@ -12,15 +12,28 @@ In addition, Search Engine Optimization tools should be used to optimize website
 
 Google has more traffic and took longer to display the website as a search result. Presumably due to clicks from the initial launch of the website, the website very quickly rose from being listed at the bottom of the first page of the Google search results, to being the search result second-from-the-top, just beneath the steakhouse Facebook page that has been in existence for years. 
 
-![](search-engine-optimization-images/google-pretty-prairie-kansas-steakhouse.jpg)
-
+Google search "pretty prairie steakhouse": second result
 ![](search-engine-optimization-images/google-pretty-prairie-steakhouse.jpg)
 
-## Yahoo and Bing
+Google search "pretty prairie kansas steakhouse": third result
+![](search-engine-optimization-images/google-pretty-prairie-kansas-steakhouse.jpg)
 
-For a search of "Pretty Prairie Kansas steakhouse," the website was immediately the top result in Bing and Yahoo. 
+## Bing
 
-![](search-engine-optimization-images/bing-pretty-prairie-kansas-steakhouse.jpg)
+The website was immediately the top result in Bing. 
+
+Bing search "pretty prairie steakhouse": first result
 ![](search-engine-optimization-images/bing-pretty-prairie-steakhouse.jpg)
-![](search-engine-optimization-images/yahoo-pretty-prairie-kansas-steakhouse.jpg)
+
+Bing search "pretty prairie kansas steakhouse": first result
+![](search-engine-optimization-images/bing-pretty-prairie-kansas-steakhouse.jpg)
+
+## Yahoo
+
+The website was immediately the top result in Yahoo.
+
+Yahoo search "pretty prairie steakhouse": first result
 ![](search-engine-optimization-images/yahoo-pretty-prairie-steakhouse.jpg)
+
+Yahoo search "pretty prairie kansas steakhouse": first result
+![](search-engine-optimization-images/yahoo-pretty-prairie-kansas-steakhouse.jpg)
