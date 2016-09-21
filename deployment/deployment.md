@@ -86,7 +86,7 @@ I first accessed the log to verify that an attack of this type had been carried 
 
     $ grep xmlrpc /var/log/apache2/access.log
 
-The log showed that many attack requests had taken place. I then put a fix in place to block this kind of attack 
+The log showed that many attack requests had taken place. The Digital Ocean article explains how to identify an attack request. I then put a fix in place to block this kind of attack 
 
     $ sudo a2enconf block-xmlrpc
 
