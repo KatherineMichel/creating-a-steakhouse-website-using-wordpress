@@ -27,7 +27,19 @@ Examples
 
 ### SEO (Search Engine Optimization)
 
-The website (with and without www) was submitted to all three major search engines (Google, Bing, and Yahoo). For a search of "Pretty Prairie Kansas steakhouse," the website was immediately the top result in Bing and Yahoo. Google receives more traffic and and took longer to display the result. However, I did not want to promote the website until it was displayed in the search results. Google ranking can be improved through SEO best practice and clicks.
+The website (with and without www) was submitted to all three major search engines (Google, Bing, and Yahoo). Search engine ranking can be improved through SEO best practice and clicks. 
+
+#### Yahoo and Bing
+
+For a search of "Pretty Prairie Kansas steakhouse," the website was immediately the top result in Bing and Yahoo. 
+
+#### Google
+
+Google has more traffic and took longer to display the website as a search result. However, I did not want to promote the website until it was displayed in the Google search results, because I wanted the clicks of people checking out the website for the first time to be recorded and help to raise the ranking. The website very quickly rose from being listed at the bottom of first page of the Google search results, to the top of the first page, just beneath the first result, which is the steakhouse Facebook page which has been in existence for years. 
+
+#### New Goal
+
+The steakhouse can aspire to be ranked more highly for more general searches, such as "Kansas steakhouse"
 
 ## Website
 
