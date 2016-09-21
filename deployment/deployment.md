@@ -87,7 +87,7 @@ I first accessed the log to verify that an attack of this type had been carried 
 
     $ grep xmlrpc /var/log/apache2/access.log
 
-The log showed that many attack requests had taken place. The Digital Ocean article explains how to identify an attack request. 
+The log showed that thousands of attack requests had taken place. The Digital Ocean article explains how to identify an attack request. This is a screenshot of just a few of the many requests.
 
 ![](terminal-log-scrolling.jpg)
 
