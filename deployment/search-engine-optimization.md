@@ -4,9 +4,9 @@ The website (with and without www) was submitted to all three major search engin
 
 ## Goals
 
-The steakhouse can aspire to be ranked more highly for more general searches, such as "Kansas steakhouse"
+The initial goal is for the steakhouse website to be a top ranking for the searches "pretty prairie steakhouse" and "pretty prairie kansas steakhouse". The next goal is for the steakhouse website to be highly ranked for regional searches ("hutchinson steakhouse", "kingman steakhouse", "wichita steakhouse"). And of course, it would be advantageous for the steakhouse to be ranked in more general searches, such as "kansas steakhouse".  
 
-Facebook
+In addition, Search Engine Optimization tools should be used to optimize website link sharing on Facebook.
 
 ## Google
 
