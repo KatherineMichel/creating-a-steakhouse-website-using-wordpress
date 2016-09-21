@@ -15,3 +15,10 @@ Google has more traffic and took longer to display the website as a search resul
 ## New Goal
 
 The steakhouse can aspire to be ranked more highly for more general searches, such as "Kansas steakhouse"
+
+bing-pretty-prairie-kansas-steakhouse.jpg
+bing-pretty-prairie-steakhouse.jpg
+google-pretty-prairie-kansas-steakhouse.jpg
+google-pretty-prairie-steakhouse.jpg
+yahoo-pretty-prairie-kansas-steakhouse.jpg
+yahoo-pretty-prairie-steakhouse.jpg
