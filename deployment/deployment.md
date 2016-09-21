@@ -38,6 +38,7 @@
 * Used local environment to test WordPress before implementing in host environment
 * Used Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en) for device simulation for testing; also crowdsourced device testing
 * Used [Yoast SEO for WordPress Plugin](https://yoast.com/wordpress/plugins/seo), [Google XML Sitemap Generator Plugin](https://wordpress.org/plugins/google-sitemap-generator), and [Google Webmaster Tools](https://www.google.com/webmasters/tools) for search indexing
+* Implemented XML-RPC attacks fix
 
 Digital Ocean Specs
 
