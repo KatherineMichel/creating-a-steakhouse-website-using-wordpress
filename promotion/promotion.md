@@ -47,6 +47,8 @@ The steakhouse can aspire to be ranked more highly for more general searches, su
 * Slide in Panel (appears on right side of screen as user scrolls)
 * Popup (covers screen and user needs to "x" out)
 
+Email, newsletter, special deals
+
 ## Facebook
 
 * Social media sharing/liking
