@@ -27,6 +27,7 @@ Table of Contents
   * [Local Partners](local-partners/local-partners.md)
 * [Secondary Functionality](design/secondary-functionality.md)
 * [Finished Website](finished-website/finished-website.md)
+* [Search Engine Optimization](deployment/search-engine-optimization.md)
 * [Training](wordpress/training.md)
 
 * [User Research](user-research/user-research.md)
