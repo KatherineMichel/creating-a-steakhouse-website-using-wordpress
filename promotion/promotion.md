@@ -21,11 +21,20 @@ Pretty Prairie, Kansas is what is known as a destination (a place that non-resid
 
 Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and has a reputation for old-world craftsmanship and homestyle, comfort food. Could Pretty Prairie Steakhouse be part of a local rustic/quaint reputation that might attract destination visitors in a way similar to Yoder? Or, could Pretty Prairie Steakhouse develop a recognizable brand that becomes part of pop culture. 
 
-Examples
+## Traditional Plan
 
-## Online Promotion
+* Fliers
+* Word of Mouth
+* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
+* Sponsorships (events, radio spots/contests, etc.)
 
-### SEO (Search Engine Optimization)
+## Online Plan
+
+* Website
+* SEO (Search Engine Optimization)
+* Facebook page/posts/sharing/liking/post sharing contests to win free item
+* Email/newsletter blasts
+* Google, Facebook, Twitter ads, targeting
 
 ## Website
 
@@ -33,24 +42,7 @@ Examples
 * Slide in Panel (appears on right side of screen as user scrolls)
 * Popup (covers screen and user needs to "x" out)
 
-Email, newsletter, special deals
-
-## Facebook
-
-* Social media sharing/liking
-* Facebook post share contest to win free item
-
-## Online Ads
-
-* Google Ads, targeting
-* Facebook, Twitter ads
-
-## Traditional
-
-* Fliers
-* Word of Mouth
-* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
-* Sponsorships (events, radio spots/contests, etc.)
+Special deals
 
 ## Shop
 
