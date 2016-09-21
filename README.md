@@ -9,7 +9,7 @@ Table of Contents
 * [Introduction](introduction.md)
 * [WordPress](wordpress/wordpress.md)
   * [WordPress Admin Dashboard](wordpress/wordpress-admin-dashboard.md)
-* [Deployment](deployment.md)
+* [Deployment](deployment/deployment.md)
 * [Design](design/design.md)
   * [Wireframes](design/wireframes.md)
   * [Color Scheme](design/color-scheme.md)
