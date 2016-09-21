@@ -8,13 +8,15 @@ For a search of "Pretty Prairie Kansas steakhouse," the website was immediately 
 
 ## Google
 
-Google has more traffic and took longer to display the website as a search result. The website very quickly rose from being listed at the bottom of first page of the Google search results, to being the search result second-from-the-top, just beneath the steakhouse Facebook page that has been in existence for years. 
+Google has more traffic and took longer to display the website as a search result. Presumably due to clicks from the initial launch of the website, the website very quickly rose from being listed at the bottom of the first page of the Google search results, to being the search result second-from-the-top, just beneath the steakhouse Facebook page that has been in existence for years. 
 
 ## Facebook
 
 ## New Goal
 
 The steakhouse can aspire to be ranked more highly for more general searches, such as "Kansas steakhouse"
+
+## Screenshots
 
 ![](search-engine-optimization-images/bing-pretty-prairie-kansas-steakhouse.jpg)
 ![](search-engine-optimization-images/bing-pretty-prairie-steakhouse.jpg)
