@@ -72,7 +72,7 @@ I was then able to upload and activate the theme without incident.
 
 ### Downtime
 
-I was searching for the website daily in Google in anticipation that it would show up in the results. When it did, I clicked on the site and it displayed an error. 
+I was searching for the website daily in Google in anticipation that it would show up in the results. When it did, I clicked on the website link and the website displayed an error. 
 
 ![](error-establishing-a-database-connection.jpg)
 
