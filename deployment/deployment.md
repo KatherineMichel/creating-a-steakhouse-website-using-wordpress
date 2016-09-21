@@ -74,6 +74,8 @@ I was then able to upload and activate the theme without incident.
 
 I was searching for the website daily in Google in anticipation that it would show up in the results. When it did, I clicked on the site and it displayed an error. 
 
+error-establishing-a-database-connection.jpg
+
 I was able to immediately restart MySQL and the website immediately worked again
 
     $ service mysql restart
