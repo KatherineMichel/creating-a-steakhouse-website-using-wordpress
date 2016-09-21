@@ -96,6 +96,11 @@ Though the requests would continue to show in the log, the code would no longer 
 
 One caveat to the approach that I used is that any service that utilizes XML-RPC will be prevented from functioning, including Jetpack or the WordPress mobile app. Though this website is not using Jetpack, if it were, another option would be to use a Jetpack security feature as outlined in the article [Jetpack Protection From Brute Force XML-RPC Attacks](https://jetpack.com/2015/10/12/jetpack-protection-from-brute-force-xml-rpc-attacks).
 
+Apparently, the current configuration can be undone by using the following commands
+
+    $ sudo a2disconf block-xmlrpc
+    $ sudo service apache2 restart
+
 For further reference:
 * ["Error establishing a database connection (WordPress)"](https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-wordpress)
 * [Jetpack Security Features](https://jetpack.com/support/security-features)
