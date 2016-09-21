@@ -1,5 +1,11 @@
 # Brand Fun
 
+## Brand Examples
+
+* [Texas Roadhouse](https://www.texasroadhouse.com)
+* [Cracker Barrel](https://www.crackerbarrel.com)
+* [Carlos O'Kelly's](https://www.carlosokellys.com)
+
 ## Hypothetical Chain
 
 * Name
