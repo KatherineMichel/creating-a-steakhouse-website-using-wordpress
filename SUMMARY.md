@@ -21,9 +21,10 @@ Table of Contents
   * [Restaurant Menu](restaurant-menu/restaurant-menu.md)
   * [Potter Creek Outfitters](potter-creek-outfitters/potter-creek-outfitters.md)
   * [Local Partners](local-partners/local-partners.md)
-* [Secondary Functionality](design/secondary-functionality.md)
-* [Finished Website](finished-website/finished-website.md)
+* [Secondary Functionality](secondary-functionality.md)
+* [Finished Website](deployment/finished-website.md)
 * [Search Engine Optimization](deployment/search-engine-optimization.md)
+* [Facebook Profile](deployment/facebook-profile.md)
 * [Training](wordpress/training.md)
 
 * [User Research](user-research/user-research.md)
@@ -31,7 +32,7 @@ Table of Contents
   * [Personas](user-research/personas.md) 
 * [Promotion](promotion/promotion.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
-  * [Facebook Profile](promotion/facebook-profile.md)
 * [Brand Fun](brand-fun.md)
 * [Client Consultation and Feedback](client-consultation-and-input.md)
 * [Lessons Learned](lessons-learned.md)
+
