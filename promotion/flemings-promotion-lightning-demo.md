@@ -3,6 +3,7 @@
 Geolocation (Placeholder)
 
 Reservations Slide-In Panel (Placeholder)
+![](flemings-images/home-slide-in-panel.jpg)
 
 Home with Advertisements
 ![](flemings-images/home.jpg)
