@@ -44,7 +44,9 @@ Large Desktop, Small Desktop, iPhone, and iPad
 
 ### White Color Theme
 
-Small Desktop, iPhone, and iPad
+Large Desktop, Small Desktop, iPhone, and iPad
+
+![](images/homepage-mockup-design-variations/large-desktop-white-theme-boxed.jpg)
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-boxed.jpg)
 
