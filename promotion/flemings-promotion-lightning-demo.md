@@ -1,5 +1,8 @@
 # Flemings Promotion Lightning Demo
 
+Targeted Ad
+![](flemings-images/targeted-ad.jpg)
+
 Geolocation (Placeholder)
 
 Reservations Slide-In Panel
