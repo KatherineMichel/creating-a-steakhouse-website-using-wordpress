@@ -1,5 +1,9 @@
 # Flemings Promotion Lightning Demo
 
+Geolocation (Placeholder)
+
+Reservations Slide-In Panel (Placeholder)
+
 Home with Advertisements
 ![](flemings-images/home.jpg)
 
