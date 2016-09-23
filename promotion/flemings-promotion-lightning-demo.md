@@ -1,6 +1,8 @@
 # Fleming's Promotion Lightning Demo
 
-The client asked me to do an analysis of the Fleming's Steakhouse chain website, because the client is a customer of Fleming's Steakhouse and feels their website promotes their products and services well. 
+The client asked me to do an analysis of the [Fleming's Steakhouse website](https://www.flemingssteakhouse.com), because the client is a customer of Fleming's Steakhouse and feels their website promotes their products and services well. 
+
+Fleming's is a chain with locations around the United States. 
 
 The Fleming's website has a pretty nice look to it. The design and content are sophisticated. The colors are bright and mostly attractive, and the layout is nice. The photo quality is a highlight. The full-screen product photos are excellent. One thing that sets this website is apart is promotion. The promotion is well done, starting on the homepage with a geolocation pop-up, an information bar at the top under the navigation bar, a slide-in panel on the right for making reservations, and product call outs with full-screen photo carousels as backgrounds, featuring the beautiful product photos I already mentioned. The site engages well with customers, offering special deals such as dine rewards, gift cards, Friend of Fleming's sign up, and an opportunity to give feedback through a guest survey. Also, soon after looking at the Fleming's website for the first time, I saw a targetted ad via another website. 
 
