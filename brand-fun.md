@@ -2,10 +2,26 @@
 
 Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). It is probable that "locals" will tend to frequent the restaurant due to the convenience of close proximity. It is probable that residents of surrounding towns might occassionally travel to Pretty Prairie to eat at the restaurant if the food and service are reliably good. How can the restaurant increase the likelihood that locals and residents of surrounding towns will eat there? And, can the restaurant attract people who live further away, or even make money online? One or more of the following can be used to reach a larger audience.
 
+## Hypothetical Chain
+
+Considerations
+* Name
+* Branding (psychological association)
+* Operations/scaling up
+* Locations
+* Finance
+* Economies of Scale
+* Social Media (Facebook)
+
+## Brand Examples
+
+* [Texas Roadhouse](https://www.texasroadhouse.com)
+* [Cracker Barrel](https://www.crackerbarrel.com)
+* [Carlos O'Kelly's](https://www.carlosokellys.com)
+
 ## Market
 
-## Audiences
-
+Audiences
 * Pretty Prairie residents ("locals")
 * Residents of surrounding towns
 * People who live further away/destination seekers
@@ -49,33 +65,11 @@ Special deals
 * WooCommerce, Quick Cart View (shop integration, in person/by mail, SSL certificate possibly needed)
 * Clothes and Merchandise
 
+### Hypothetical Merchandise
 
-
-
-
-## Brand Examples
-
-* [Texas Roadhouse](https://www.texasroadhouse.com)
-* [Cracker Barrel](https://www.crackerbarrel.com)
-* [Carlos O'Kelly's](https://www.carlosokellys.com)
-
-## Hypothetical Chain
-
-Considerations
-* Name
-* Branding (psychological association)
-* Operations/scaling up
-* Locations
-* Finance
-* Economies of Scale
-* Social Media (Facebook)
-
-## Hypothetical Merchandise
-
-### Crowdsourced T-shirts
-
+Crowdsourced T-shirts
 * [TeeSpring](https://teespring.com)
 
-### Hoodies
+Hoodies
 
-### Other Merchandise
+Other Merchandise
