@@ -13,3 +13,5 @@ Actual user feedback
 * Don't make design too dark
 * Photo makes user hungry
 * Website slow in loading on iPhone 4, which is a older phone that is particularly small
+
+## Personas
