@@ -29,23 +29,31 @@ Audiences
 
 ## Promotion by Audience
 
-### Pretty Prairie Residents
+### Pretty Prairie and Surrounding Town Residents
 
 Methods
 * Fliers
 * Word of Mouth
-* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
-* Sponsorships (events, radio spots/contests, etc.)
-
-### Surrounding Town Residents
-
-Methods
-* Fliers
-* Word of Mouth
-* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
+* Search Engine Optimization (SEO)
+* Website
+* Facebook
+* Email/newsletter blasts
+* Targeted Ads (Google, Facebook, Twitter)
+* Physical Newspapers (Pretty Prairie, Hutchinson News, Kingman County News, Wichita Eagle)
+* Online Newspapers (Pretty Prairie, Hutchinson News, Kingman County News, Wichita Eagle)
 * Sponsorships (events, radio spots/contests, etc.)
 
 ### Hypothetical Online Customers
+
+Hypothetical online customers are people who purchase a product through the website, but never visit the physical restaurant. 
+
+Methods
+* Search Engine Optimization (SEO)
+* Website
+* Facebook
+* Email/newsletter blasts
+* Targeted Ads (Google, Facebook, Twitter)
+* Online Newspapers (Hutchinson, Kingman, Wichita)
 
 
 
@@ -61,11 +69,7 @@ Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and h
 
 ## Online Plan
 
-* Website
-* SEO (Search Engine Optimization)
 * Facebook page/posts/sharing/liking/post sharing contests to win free item
-* Email/newsletter blasts
-* Google, Facebook, Twitter ads, targeting
 
 ## Website
 
