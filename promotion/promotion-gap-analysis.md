@@ -10,6 +10,7 @@ The Fleming's Steakhouse website homepage makes use of an info bar at the top of
 
 One way to give a website a higher quality aesthetic is by using professional quality photos. There is a common perception that a photo can just be taken with a phone and will look great. However, photos that are not taken professionally may not look as good for various reasons (bad composition, bad lighting, no filters used, low quality resolution). A professional quality photo was used above-the-fold on the homepage of the Pretty Prairie Steakhouse website and non-professional quality photos on the other pages, which is believed to suffice at this time. However, one way to sharpen up the look would be to commission a photographer to take staged photos to be used through the website, just as Fleming's has done with their website and Facebook page.
 
+## Email Updates
 
 
 # Secondary Functionality
