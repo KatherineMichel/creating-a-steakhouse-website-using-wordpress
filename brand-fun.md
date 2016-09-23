@@ -6,17 +6,14 @@
 * [Cracker Barrel](https://www.crackerbarrel.com)
 * [Carlos O'Kelly's](https://www.carlosokellys.com)
 
-Psychological association
-
 ## Hypothetical Chain
 
 * Name
-* Branding
+* Branding (psychological association)
 * Operations/scaling up
-
-## Social Media
-
-* Facebook
+* Locations
+* Economies of Scale
+* Social Media (Facebook)
 
 ## Hypothetical Merchandise
 
