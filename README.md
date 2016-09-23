@@ -35,6 +35,7 @@ Table of Contents
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
 * [Secondary Functionality](secondary-functionality.md)
 * [Brand Fun](brand-fun.md)
+  * [Personas](personas.md)
 * [Client Consultation and Feedback](client-consultation-and-input.md)
 * [Lessons Learned](lessons-learned.md)
 
