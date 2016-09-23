@@ -33,7 +33,6 @@ Table of Contents
 * [User Research](user-research.md)
 * [Promotion Gap Analysis](promotion/promotion-gap-analysis.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
-* [Secondary Functionality](secondary-functionality.md)
 * [Brand Fun](brand-fun.md)
   * [Personas](personas.md)
 * [Client Consultation and Feedback](client-consultation-and-input.md)
