@@ -5,9 +5,8 @@
 Current Header
 ![](facebook-header.jpg)
 
-## Coordinated Design
+Example Updated Header (example logo and website header)
 
-* Header image: steak dinner
-* Profile picture: icon 
+
 
 
