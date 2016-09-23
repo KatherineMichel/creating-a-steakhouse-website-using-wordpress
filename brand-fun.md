@@ -8,10 +8,12 @@
 
 ## Hypothetical Chain
 
+Considerations
 * Name
 * Branding (psychological association)
 * Operations/scaling up
 * Locations
+* Finance
 * Economies of Scale
 * Social Media (Facebook)
 
