@@ -45,7 +45,7 @@ Methods
 
 ### Hypothetical Online Customers
 
-Hypothetical online customers are people who purchase a product through the website, but never visit the physical restaurant. 
+Hypothetical online customers are people who purchase a product through the website, but never visit the physical restaurant. Why would they do this? It could be for several reasons: the steakhouse sells online product for an additional revenue (example: meat cut delivery business similar to Omaha Steaks), the steakhouse has developed a niche brand that has a cult following (example: popular merchandise)
 
 Methods
 * Search Engine Optimization (SEO)
