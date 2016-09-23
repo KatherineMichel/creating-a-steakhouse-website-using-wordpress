@@ -4,7 +4,7 @@ Fleming's is a steakhouse chain with locations around the United States. My clie
 
 ## Info Bars, Slide-In Panels, Popups
 
-The Fleming's Steakhouse website homepage makes use of an info bar at the top of the screen (info about a special deal, with a link to more info), and slide-in panel at the right for making reservations. The slide-in panel is open when the page renders and can be clicked closed, or closes as the user scrolls downward. Another option that the Fleming's Steakhouse does not use is a popup (a message or ad that covers the screen until the user clicks "x" to close). 
+The Fleming's Steakhouse website homepage makes use of an info bar at the top of the screen (info about a special deal, with a link to more info), and slide-in panel at the right for making reservations. The info bar could also be at the bottom of the screen. The slide-in panel is open when the page renders and can be clicked closed, or closes as the user scrolls downward. Another option that the Fleming's Steakhouse does not use is a popup (a message or ad that covers the screen until the user clicks "x" to close). The Pretty Prairie Steakhouse website does not make use of any of these options at this time, but all are a possibility. 
 
 ## Professional Photos
 
