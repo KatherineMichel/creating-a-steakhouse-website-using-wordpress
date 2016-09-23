@@ -16,7 +16,7 @@ Fleming's Steakhouse offers a service called Friend of Fleming's. Customers can 
 
 ## Location Services
 
-This is largely unecessary for Pretty Prairie Steakhouse
+Fleming's Steakhouse is a chain that has locations across the U.S. Fleming's Steakhouse website requests to identify the user's location in order to provide location-specific information. Fleming's Steakhouse website also provides a "Locations" page with a drop down box for selecting location, and a page for each location with its unique details, including a link to a Google map. Pretty Prairie Steakhouse is one location at this time, and therefore most of this functionality is not applicable. The client was given the option of including a Google map on the site and felt it was unnecessary, believing that customers who do not already know where it is would be more likely to directly Google the restaurant or use GPS to find it. 
 
 
 # Secondary Functionality
@@ -25,6 +25,5 @@ The client was advised of additional functionality, some of which was deemed to 
 
 ## Deemed Unnecessary
 
-* Google map- client felt people would be more likely to directly Google the restaurant or use GPS
 * Contact form- client felt patrons would be more likely to call/email and restaurant laptop is not in use all of the time
 * Reservations- client felt patrons would be more likely to call/email and restaurant laptop is not in use all of the time
