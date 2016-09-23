@@ -12,6 +12,12 @@ One way to give a website a higher quality aesthetic is by using professional qu
 
 ## Email Updates
 
+Fleming's Steakhouse offers a service called Friend of Fleming's. Customers can submit their contact info including email, and birthday info. They will receive exclusive offers, email updates and a birthday gift. 
+
+## Location Services
+
+This is largely unecessary for Pretty Prairie Steakhouse
+
 
 # Secondary Functionality
 
