@@ -26,13 +26,10 @@ Table of Contents
 * [Facebook Profile](deployment/facebook-profile.md)
 * [Training](wordpress/training.md)
 
-* [User Research](user-research/user-research.md)
-  * [Survey](user-research/survey.md) 
-  * [Personas](user-research/personas.md) 
+* [User Research](user-research.md)
 * [Promotion Gap Analysis](promotion/promotion-gap-analysis.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
 * [Secondary Functionality](secondary-functionality.md)
 * [Brand Fun](brand-fun.md)
 * [Client Consultation and Feedback](client-consultation-and-input.md)
 * [Lessons Learned](lessons-learned.md)
-
