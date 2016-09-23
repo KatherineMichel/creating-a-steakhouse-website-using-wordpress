@@ -55,6 +55,11 @@ Methods
 * Targeted Ads (Google, Facebook, Twitter)
 * Online Newspapers (Hutchinson, Kingman, Wichita)
 
+## Location
+
+* Location lookup
+* Local info
+* Google map
 
 
 ## Reputation/Awareness
