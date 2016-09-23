@@ -2,23 +2,6 @@
 
 Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). It is probable that "locals" will tend to frequent the restaurant due to the convenience of close proximity. It is probable that residents of surrounding towns might occassionally travel to Pretty Prairie to eat at the restaurant if the food and service are reliably good. How can the restaurant increase the likelihood that locals and residents of surrounding towns will eat there? And, can the restaurant attract people who live further away, or even make money online? One or more of the following can be used to reach a larger audience.
 
-## Hypothetical Chain
-
-Considerations
-* Name
-* Branding (psychological association)
-* Operations/scaling up
-* Locations
-* Finance
-* Economies of Scale
-* Social Media (Facebook)
-
-## Brand Examples
-
-* [Texas Roadhouse](https://www.texasroadhouse.com)
-* [Cracker Barrel](https://www.crackerbarrel.com)
-* [Carlos O'Kelly's](https://www.carlosokellys.com)
-
 ## Market
 
 Audiences
@@ -30,6 +13,8 @@ Audiences
 ## Promotion by Audience
 
 ### Pretty Prairie and Surrounding Town Residents
+
+Pretty Prairie residents will be aware of Pretty Prairie Steakhouse due to its close proximity. People who live further away, but close enough to physically travel there to eat firstly need to become aware of Pretty Prairie Steakhouse in order to consider traveling there. 
 
 Methods
 * Fliers
@@ -45,7 +30,7 @@ Methods
 
 ### Hypothetical Online Customers
 
-Hypothetical online customers are people who purchase a product through the website, but never visit the physical restaurant. Why would they do this? It could be for several reasons: the steakhouse sells online product for an additional revenue (example: meat cut delivery business similar to Omaha Steaks), the steakhouse has developed a niche brand that has a cult following (example: popular merchandise)
+Hypothetical online customers are people who purchase a product through the website, but never visit the physical restaurant. Why would they do this? It could be for several reasons: the steakhouse could sell online product for an additional revenue (example: meat cut delivery business similar to Omaha Steaks), the steakhouse could developed a niche brand that has a cult following (example: popular merchandise). Of course, online customers will need to become aware of Pretty Prairie Steakhouse in order to become an online customer! 
 
 Methods
 * Search Engine Optimization (SEO)
@@ -55,18 +40,10 @@ Methods
 * Targeted Ads (Google, Facebook, Twitter)
 * Online Newspapers (Hutchinson, Kingman, Wichita)
 
-## Location
 
-* Location lookup
-* Local info
-* Google map
 
 
 ## Reputation/Awareness
-
-* Residents of surrounding towns are likely to be attracted to reliably good food and service
-* People who live further away firstly need to become aware of Pretty Prairie Steakhouse in order to consider traveling there to eat
-* Potential online customers need to become aware of Pretty Prairie Steakhouse in order to become an online customer
 
 ## Buzz/Brand
 
@@ -76,13 +53,29 @@ Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and h
 
 * Facebook page/posts/sharing/liking/post sharing contests to win free item
 
-## Website
+## Hypothetical Chain
 
-* Info Bar (at top or bottom of screen) (theme plugin is not working; can use external plugin)
-* Slide in Panel (appears on right side of screen as user scrolls)
-* Popup (covers screen and user needs to "x" out)
+Considerations
+* Name
+* Branding (psychological association)
+* Operations/scaling up
+* Locations
+* Finance
+* Economies of Scale
+* Social Media (Facebook)
+* Location services
 
-Special deals
+## Brand Examples
+
+* [Texas Roadhouse](https://www.texasroadhouse.com)
+* [Cracker Barrel](https://www.crackerbarrel.com)
+* [Carlos O'Kelly's](https://www.carlosokellys.com)
+
+## Location Services
+
+* Location lookup
+* Local info
+* Google map
 
 ## Shop
 
