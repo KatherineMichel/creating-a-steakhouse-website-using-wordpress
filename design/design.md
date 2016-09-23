@@ -2,7 +2,7 @@
 
 ## What I Envision
 
-I envision a website that is both rustic and elegant, and aesthetically pleasing. The design will reflect colors, textures and images commonly associated with a steakhouse, without being a caricature or overdone. Anytime feasible, real photos taken of the steakhouse and its products will be used instead of stock photos. The website photos and content will give insight into not only the steakhouse itself, but will promote an associated venture (Potter Creek Outfitters) and local attractions. 
+I envision a website that is both rustic and elegant, and aesthetically pleasing. The design will reflect colors, textures and images commonly associated with a steakhouse, without being overdone or a caricature (exaggerated to the point of being comical). Anytime feasible, real photos taken of the steakhouse and its products will be used instead of stock photos. The website photos and content will give insight into not only the steakhouse itself, but will promote an associated venture (Potter Creek Outfitters) and local attractions. 
 
 ## Layout Choices
 
