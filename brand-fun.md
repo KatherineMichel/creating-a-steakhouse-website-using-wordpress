@@ -23,9 +23,31 @@ Considerations
 
 Audiences
 * Pretty Prairie residents ("locals")
-* Residents of surrounding towns
+* Surrounding townr residents
 * People who live further away/destination seekers
 * Hypothetical online customers
+
+## Promotion by Audience
+
+### Pretty Prairie Residents
+
+Methods
+* Fliers
+* Word of Mouth
+* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
+* Sponsorships (events, radio spots/contests, etc.)
+
+### Surrounding Town Residents
+
+Methods
+* Fliers
+* Word of Mouth
+* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
+* Sponsorships (events, radio spots/contests, etc.)
+
+### Hypothetical Online Customers
+
+
 
 ## Reputation/Awareness
 
@@ -36,13 +58,6 @@ Audiences
 ## Buzz/Brand
 
 Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and has a reputation for old-world craftsmanship and homestyle, comfort food. Could Pretty Prairie Steakhouse be part of a local rustic/quaint reputation that might attract destination visitors in a way similar to Yoder? Or, could Pretty Prairie Steakhouse develop a recognizable brand that becomes part of pop culture. 
-
-## Traditional Plan
-
-* Fliers
-* Word of Mouth
-* Newspapers (local and metropolitan, physical and online, Pretty Prairie, Hutchinson, Kingman, Wichita)
-* Sponsorships (events, radio spots/contests, etc.)
 
 ## Online Plan
 
