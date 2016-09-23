@@ -20,14 +20,14 @@ Pretty Prairie residents will be aware of Pretty Prairie Steakhouse due to its c
 
 Methods
 * Fliers
-* Word of Mouth
+* Word of mouth/reputation
 * Search Engine Optimization (SEO)
 * Website
 * Facebook
 * Email/newsletter blasts
-* Targeted Ads (Google, Facebook, Twitter)
-* Physical Newspapers (Pretty Prairie, Hutchinson News, Kingman County News, Wichita Eagle)
-* Online Newspapers (Pretty Prairie, Hutchinson News, Kingman County News, Wichita Eagle)
+* Targeted ads (Google, Facebook, Twitter)
+* Physical newspapers (Pretty Prairie, Hutchinson News, Kingman County News, Wichita Eagle)
+* Online newspapers (Pretty Prairie, Hutchinson News, Kingman County News, Wichita Eagle)
 * Sponsorships (events, radio spots/contests, etc.)
 
 ### Hypothetical Online Customers
@@ -39,19 +39,19 @@ Methods
 * Website
 * Facebook
 * Email/newsletter blasts
-* Targeted Ads (Google, Facebook, Twitter)
-* Online Newspapers (Hutchinson, Kingman, Wichita)
+* Targeted ads (Google, Facebook, Twitter)
+* Online newspapers (Hutchinson News, Kingman County News, Wichita Eagle)
 
 
 
-
-## Reputation/Awareness
 
 ## Buzz/Brand
 
 Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and has a reputation for old-world craftsmanship and homestyle, comfort food. Could Pretty Prairie Steakhouse be part of a local rustic/quaint reputation that might attract destination visitors in a way similar to Yoder? Or, could Pretty Prairie Steakhouse develop a recognizable brand that becomes part of pop culture. 
 
 ## Hypothetical Chain
+
+Though Pretty Prairie Steakhouse is unlikely to attract the kind of traffic that would be found in a successful restaurant in a prime metropolitan location, it could hypothetically be an incubator and launching pad for a chain brand. 
 
 Considerations
 * Name
