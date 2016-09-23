@@ -27,3 +27,6 @@ Deemed to be unnecessary, at least for now.
 
 * Contact form- client felt patrons would be more likely to call/email and restaurant laptop is not in use all of the time
 * Reservations- client felt patrons would be more likely to call/email and restaurant laptop is not in use all of the time
+
+Online
+* Facebook page/posts/sharing/liking/post sharing contests to win free item
