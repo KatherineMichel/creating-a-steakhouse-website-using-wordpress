@@ -14,4 +14,14 @@ Actual user feedback
 * Photo makes user hungry
 * Website slow in loading on iPhone 4, which is a older phone that is particularly small
 
+## Survey
+
+### Options
+
+* Google Form
+* Survey Monkey
+* Typeform
+
+### Questions
+
 ## Personas
