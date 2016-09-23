@@ -1,6 +1,8 @@
 # Brand Fun
 
-Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). It is probable that "locals" will tend to frequent the restaurant due to the convenience of close proximity. It is probable that residents of surrounding towns might occassionally travel to Pretty Prairie to eat at the restaurant if the food and service are reliably good. How can the restaurant increase the likelihood that locals and residents of surrounding towns will eat there? And, can the restaurant attract people who live further away, or even make money online? One or more of the following can be used to reach a larger audience.
+Pretty Prairie, Kansas is what is known as a destination (a place that non-residents make a special trip to visit). It is probable that "locals" will tend to frequent the restaurant due to the convenience of close proximity. It is probable that residents of surrounding towns might occassionally travel to Pretty Prairie to eat at the restaurant if the food and service are reliably good. How can the restaurant increase the likelihood that locals and residents of surrounding towns will eat there? And, can the restaurant attract people who live further away, or even make money online? 
+
+One or more of the following can be used to reach a larger audience.
 
 ## Market
 
@@ -48,10 +50,6 @@ Methods
 ## Buzz/Brand
 
 Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and has a reputation for old-world craftsmanship and homestyle, comfort food. Could Pretty Prairie Steakhouse be part of a local rustic/quaint reputation that might attract destination visitors in a way similar to Yoder? Or, could Pretty Prairie Steakhouse develop a recognizable brand that becomes part of pop culture. 
-
-## Online Plan
-
-* Facebook page/posts/sharing/liking/post sharing contests to win free item
 
 ## Hypothetical Chain
 
