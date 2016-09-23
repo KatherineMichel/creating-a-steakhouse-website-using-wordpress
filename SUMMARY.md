@@ -30,7 +30,7 @@ Table of Contents
   * [Survey](user-research/survey.md) 
   * [Personas](user-research/personas.md) 
 * [Promotion](promotion/promotion.md)
-  * [Professional Photos](promotion/professional-photos.md)
+  * [Gap Analysis](promotion/gap-analysis.md)
   * [Flemings Promotion Lightning Demo](promotion/flemings-promotion-lightning-demo.md)
 * [Secondary Functionality](secondary-functionality.md)
 * [Brand Fun](brand-fun.md)
