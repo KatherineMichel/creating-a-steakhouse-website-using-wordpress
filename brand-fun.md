@@ -32,7 +32,7 @@ Methods
 
 ### Hypothetical Online Customers
 
-Hypothetical online customers are people who purchase a product through the website, but never visit the physical restaurant. Why would they do this? It could be for several reasons: the steakhouse could sell online product for an additional revenue (example: meat cut delivery business similar to Omaha Steaks), the steakhouse could developed a niche brand that has a cult following (example: popular merchandise). Of course, online customers will need to become aware of Pretty Prairie Steakhouse in order to become an online customer! 
+Hypothetical online customers are people who purchase a product through the website, but never visit the physical restaurant. Why would they do this? It could be for several reasons: the steakhouse could sell online product for an additional revenue (example: meat cut delivery business similar to Omaha Steaks), the steakhouse could developed a recognizable, pop culture brand that generates a following (example: popular merchandise). Of course, online customers will need to become aware of Pretty Prairie Steakhouse in order to become an online customer! 
 
 Methods
 * Search Engine Optimization (SEO)
@@ -42,12 +42,9 @@ Methods
 * Targeted ads (Google, Facebook, Twitter)
 * Online newspapers (Hutchinson News, Kingman County News, Wichita Eagle)
 
+## Yoder Example
 
-
-
-## Buzz/Brand
-
-Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and has a reputation for old-world craftsmanship and homestyle, comfort food. Could Pretty Prairie Steakhouse be part of a local rustic/quaint reputation that might attract destination visitors in a way similar to Yoder? Or, could Pretty Prairie Steakhouse develop a recognizable brand that becomes part of pop culture. 
+Near Pretty Prairie, Kansas is a town called Yoder. Yoder is an Amish town and has a reputation for old-world craftsmanship and homestyle, comfort food. Could Pretty Prairie Steakhouse be part of a local rustic/quaint reputation that might attract destination visitors in a way similar to Yoder? 
 
 ## Hypothetical Chain
 
@@ -62,6 +59,7 @@ Considerations
 * Economies of Scale
 * Social Media (Facebook)
 * Location services
+* Awareness/buzz
 
 ## Brand Examples
 
