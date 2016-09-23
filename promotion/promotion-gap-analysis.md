@@ -1,6 +1,6 @@
 # Promotion Gap Analysis
 
-Fleming's is a steakhouse chain with locations around the United States. The client asked me to do an analysis of the [Fleming's Steakhouse website](https://www.flemingssteakhouse.com) and [Facebook page](https://www.facebook.com/flemings), because the client is a customer of Fleming's Steakhouse and feels their website promotes their products and services well. See the [Fleming's Promotion Lightning Demo](flemings-promotion-lightning-demo.md) section for screenshots and comments. 
+Fleming's is a steakhouse chain with locations around the United States. My client asked me to do an analysis of the [Fleming's Steakhouse website](https://www.flemingssteakhouse.com) and [Facebook page](https://www.facebook.com/flemings), because the client is a customer of Fleming's Steakhouse and feels their website promotes their products and services well. See the [Fleming's Promotion Lightning Demo](flemings-promotion-lightning-demo.md) section for screenshots and comments. 
 
 ## Professional Photos
 
