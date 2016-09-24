@@ -1,1 +1,0 @@
-# Ugly Versus Pretty Debate
