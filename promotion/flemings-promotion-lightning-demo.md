@@ -8,6 +8,7 @@ Targeted Ad
 ![](flemings-images/targeted-ad.jpg)
 
 Geolocation (Placeholder)
+![](flemings-images/home-geolocation.jpg)
 
 Reservations Slide-In Panel
 ![](flemings-images/home-slide-in-panel.jpg)
