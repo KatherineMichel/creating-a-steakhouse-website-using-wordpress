@@ -7,7 +7,7 @@ My main quibble design wise is that the color scheme includes both fuschia and r
 Targeted Ad
 ![](flemings-images/targeted-ad.jpg)
 
-Geolocation (Placeholder)
+Geolocation
 ![](flemings-images/home-geolocation.jpg)
 
 Reservations Slide-In Panel
