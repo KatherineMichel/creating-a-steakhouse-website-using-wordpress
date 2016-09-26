@@ -2,10 +2,10 @@
 
 ## Facebook Header
 
-Current Header
+Current header
 ![](facebook-header.jpg)
 
-Example Updated Header (example logo and website header)
+Example updated header (example logo and website header)
 ![](facebook-header-edited.jpg)
 
 
