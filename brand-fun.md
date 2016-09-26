@@ -8,7 +8,7 @@ One or more of the following can be used to reach a larger audience.
 
 Audiences
 * Pretty Prairie residents ("locals")
-* Surrounding townr residents
+* Surrounding town residents
 * People who live further away/destination seekers
 * Hypothetical online customers
 
