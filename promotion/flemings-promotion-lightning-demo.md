@@ -4,16 +4,13 @@ The Fleming's website has a pretty nice look to it. The design and content are s
 
 My main quibble design wise is that the color scheme includes both fuschia and red (slide-in-panel, navigation bar link hover), and these are not "complimentary" colors. I feel the two colors clash because they are slightly different, but very close on the color wheel. Admittedly, this is a bit nit-picky and I'm sure there are others out there who would have a different opinion. Also, the wood paneling has a bit of a faux look about it, but is ok.
 
-Targeted Ad
-![](flemings-images/targeted-ad.jpg)
-
 Geolocation
 ![](flemings-images/home-geolocation.jpg)
 
-Reservations Slide-In Panel
+Reservations slide-in panel
 ![](flemings-images/home-slide-in-panel.jpg)
 
-Home with Advertisements
+Home with advertisements
 ![](flemings-images/home.jpg)
 
 Expertise
@@ -31,16 +28,17 @@ Advertisement
 Advertisement
 ![](flemings-images/prime-rib-ad.jpg)
 
-Dine Rewards
+Dine rewards
 ![](flemings-images/dine-rewards.jpg)
 
-Gift Cards
+Gift cards
 ![](flemings-images/gift-cards.jpg)
 
 Friend of Fleming's
 ![](flemings-images/friend-of-flemings.jpg)
 
-Guest Satisfaction Survey
+Guest satisfaction survey
 ![](flemings-images/guest-satisfaction-survey.jpg)
 
-
+Targeted ad
+![](flemings-images/targeted-ad.jpg)
