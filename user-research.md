@@ -1,6 +1,6 @@
 # User Research
 
-Soon after launch, a survey would be circulated in order to gather feedback about what customers about how the website could be improved for them. 
+Soon after launch, a survey would be circulated in order to gather feedback from customers about how the website could be improved for them. 
 
 ## User Feedback
 
@@ -18,8 +18,8 @@ Some potential methods of user research to gather feedback
 ## Survey
 
 Options
-* Google Form
-* Survey Monkey
-* Typeform
+* [Google Forms](https://www.google.com/forms/about)
+* [SurveyMonkey](https://www.surveymonkey.com)
+* [Typeform](https://www.typeform.com)
 
 ### Questions
