@@ -7,7 +7,7 @@ I chose the WordPress web framework for this project.
 There are three primary reasons why I chose WordPress:
 * The client asked for this project to be completed very quickly and there are thousands of ready made WordPress themes that can be customized via dashboard and code to suit the project
 * The website would need to be maintained in part by non-techies and this could be done through the famous WordPress admin dashboard
-* Digital Ocean's One-Click WordPress installation would make deployment mostly painless
+* [Digital Ocean's One-Click WordPress Install](https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean) would make deployment mostly painless
 
 ## What is WordPress?
 
