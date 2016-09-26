@@ -8,8 +8,8 @@ One goal of the website is to highlight area talent, events, and attractions. Cu
 [Ubuntu Wine and Paint](https://www.facebook.com/FullCircleThriftStore)<br>
 ![](ubuntu.jpg)
 
-[Vineyard Band](http://wearefaintheart.com)<br>
-![](vineyard-band.jpg)
+[Faintheart Band](http://wearefaintheart.com)<br>
+![](faintheart-band.jpg)
 
 [Potter Creek Outfitters](https://www.facebook.com/Potter-Creek-Outfitters-163247213738369)<br>
 ![](potter-creek-outfitters.jpg)
