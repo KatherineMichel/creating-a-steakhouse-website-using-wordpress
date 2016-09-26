@@ -11,8 +11,8 @@
 ## SEO
 
 * Webmaster: [Google Webmaster Tools](https://www.google.com/webmasters/tools)
-* General SEO: [Yoast SEO for WordPress Plugin](https://yoast.com/wordpress/plugins/seo)
-* XML Sitemap Generator: [Google XML Sitemap Generator Plugin](https://wordpress.org/plugins/google-sitemap-generator)
+* General SEO: [Yoast SEO for WordPress](https://yoast.com/wordpress/plugins/seo) plugin
+* XML Sitemap Generator: [Google XML Sitemap Generator](https://wordpress.org/plugins/google-sitemap-generator) plugin
 
 ## Utilities
 
