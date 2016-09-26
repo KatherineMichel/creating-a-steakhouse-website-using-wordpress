@@ -1,6 +1,6 @@
 # Detail Page Content
 
-In addition to designing the detail page layouts, a variety of information and media would need to be collected in order to finished the detail pages:
+In addition to designing the detail page layouts, a variety of information and media would need to be collected in order to finished the detail pages. Here are some examples:
 * Pretty Prairie Steakhouse photos
 * Restaurant info, including contact info
 * Menu info
