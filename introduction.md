@@ -8,5 +8,5 @@ Pretty Prairie Steakhouse
 Pretty Prairie Steakhouse- Lil' Rascals Lounge
 ![](introduction-images/bar-from-front-2.jpg)
 
-Keeping an Eye on the Restaurant
+Keeping an eye on the restaurant
 ![](introduction-images/deer.jpg)
