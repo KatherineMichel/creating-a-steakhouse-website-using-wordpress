@@ -37,7 +37,7 @@
 * Created special Apache server configuration via SSH and Nano to enable upload of larger premium theme
 * Used local environment to test WordPress before implementing in host environment
 * Used Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en) for device simulation for testing; also crowdsourced device testing
-* Used [Yoast SEO for WordPress](https://yoast.com/wordpress/plugins/seo) plugin, [Google XML Sitemap Generator](https://wordpress.org/plugins/google-sitemap-generator), and [Google Webmaster Tools](https://www.google.com/webmasters/tools) plugin for search indexing
+* Used [Yoast SEO for WordPress](https://yoast.com/wordpress/plugins/seo) plugin, [Google XML Sitemap Generator](https://wordpress.org/plugins/google-sitemap-generator) plugin, and [Google Webmaster Tools](https://www.google.com/webmasters/tools) plugin for search indexing
 * Implemented XML-RPC attacks fix
 
 Digital Ocean Specs
@@ -54,7 +54,7 @@ Digital Ocean Specs
 
 ### Theme Installation
 
-Apache server file access via SSH and nano
+Apache server file access via SSH and Nano
 
     $ sudo nano /etc/php5/apache2/php.ini
 
@@ -81,7 +81,7 @@ I was able to immediately restart MySQL and the website immediately worked again
 
     $ service mysql restart
 
-I hoped that this would be a one-time error. However, on two consecutive mornings soon after, I clicked on the site and the error was displayed again. I did some research and it turned out that XML-RPC attacks were being carried out against the website. This is a malicious, "brute force" attack in which thousands of requests are sent to a website in a short amount of time, rendering the database unresponsive. It seems likely that the attacks began around the time the website showed up in the search engine results because the attack crawler found it that way. I used guidance from the Digital Ocean article [How To Protect WordPress from XML-RPC Attacks on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-wordpress-from-xml-rpc-attacks-on-ubuntu-14-04) to protect the website from this kind of attack. 
+I hoped that this would be a one-time error. However, on two consecutive mornings soon after, I clicked on the site and the error was displayed again. I did some research and it turned out that XML-RPC attacks were being carried out against the website. This is a malicious, "brute force" attack in which thousands of requests are sent to a website in a short amount of time, rendering the database unresponsive. The attacks began around the time the website showed up in the Google search engine results and it seemed likely the attack crawler found it that way. I used guidance from the Digital Ocean article [How To Protect WordPress from XML-RPC Attacks on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-protect-wordpress-from-xml-rpc-attacks-on-ubuntu-14-04) to protect the website from this kind of attack. 
 
 I first accessed the log to verify that an attack of this type had been carried out against the site
 
