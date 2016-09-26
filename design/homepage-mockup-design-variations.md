@@ -10,13 +10,13 @@ The large footer is left out of the mockups to save space.
 
 ## Full Width
 
-Small Desktop- Transparent Navbar
+Small desktop- transparent navbar
 
 ![](images/homepage-mockup-design-variations/laptop-no-navbar.jpg)
 
 ### Black Color Theme
 
-Small Desktop, iPhone, and iPad
+Small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-full-width.jpg)
 
@@ -24,7 +24,7 @@ Small Desktop, iPhone, and iPad
 
 ### White Color Theme
 
-Small Desktop, iPhone, and iPad
+Small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-full-width.jpg)
 
@@ -34,7 +34,7 @@ Small Desktop, iPhone, and iPad
 
 ### Black Color Theme
 
-Large Desktop, Small Desktop, iPhone, and iPad
+Large desktop, small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/large-desktop-black-theme-boxed.jpg)
 
@@ -44,7 +44,7 @@ Large Desktop, Small Desktop, iPhone, and iPad
 
 ### White Color Theme
 
-Large Desktop, Small Desktop, iPhone, and iPad
+Large desktop, small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/large-desktop-white-theme-boxed.jpg)
 
@@ -56,7 +56,7 @@ Large Desktop, Small Desktop, iPhone, and iPad
 
 ### Black Color Theme
 
-Small Desktop, iPhone, and iPad
+Small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-white-border.jpg)
 
@@ -64,7 +64,7 @@ Small Desktop, iPhone, and iPad
 
 ### White Color Theme
 
-Small Desktop, iPhone, and iPad
+Small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-white-border.jpg)
 
@@ -74,7 +74,7 @@ Small Desktop, iPhone, and iPad
 
 ### Black Color Theme
 
-Small Desktop, iPhone, and iPad
+Small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/small-desktop-black-theme-boxed-and-white-border.jpg)
 
@@ -82,7 +82,7 @@ Small Desktop, iPhone, and iPad
 
 ### White Color Theme
 
-Small Desktop, iPhone, and iPad
+Small desktop, iPhone, and iPad
 
 ![](images/homepage-mockup-design-variations/small-desktop-white-theme-boxed-and-white-border.jpg)
 
