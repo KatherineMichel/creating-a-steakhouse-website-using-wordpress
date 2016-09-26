@@ -30,14 +30,14 @@
 ## Process
 
 * Set up primary software accounts
-* Set up [Digital Ocean One-Click Install](https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean)
+* Set up [Digital Ocean One-Click WordPress Install](https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean)
 * [Configured GoDaddy domain to point to Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars)
 * [Configured domain in Digital Ocean control panel](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
 * Enabled installation by [connecting to droplet with SSH](https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh) via PuTTY and Mac terminal, changing password
-* Created special Apache server configuration via SSH and nano to enable upload of larger premium theme
+* Created special Apache server configuration via SSH and Nano to enable upload of larger premium theme
 * Used local environment to test WordPress before implementing in host environment
 * Used Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en) for device simulation for testing; also crowdsourced device testing
-* Used [Yoast SEO for WordPress Plugin](https://yoast.com/wordpress/plugins/seo), [Google XML Sitemap Generator Plugin](https://wordpress.org/plugins/google-sitemap-generator), and [Google Webmaster Tools](https://www.google.com/webmasters/tools) for search indexing
+* Used [Yoast SEO for WordPress](https://yoast.com/wordpress/plugins/seo) plugin, [Google XML Sitemap Generator](https://wordpress.org/plugins/google-sitemap-generator), and [Google Webmaster Tools](https://www.google.com/webmasters/tools) plugin for search indexing
 * Implemented XML-RPC attacks fix
 
 Digital Ocean Specs
