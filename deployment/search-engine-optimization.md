@@ -1,6 +1,6 @@
 # Search Engine Optimization (SEO) 
 
-The website (with and without www) was submitted to all three major search engines (Google, Bing, and Yahoo). I did not want to promote the website until it was displayed in the the search results of all three major search engines, because I wanted the clicks of people checking out the website for the first time to be recorded and help to raise the ranking in local and non-local searches. Search Engine Optimization can also be improved through good keywords and content.
+The website (with and without www) was submitted to all three major search engines (Google, Bing, and Yahoo). I did not want to promote the website until it was displayed in the the search results of all three major search engines, because I wanted the clicks of people checking out the website for the first time to be recorded and help to raise the ranking in local and non-local searches. [Search Engine Optimization](https://en.wikipedia.org/wiki/Search_engine_optimization) can also be improved through good keywords and content.
 
 ## Goals
 
