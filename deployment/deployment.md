@@ -40,7 +40,7 @@
 * Used [Yoast SEO for WordPress](https://yoast.com/wordpress/plugins/seo) plugin, [Google XML Sitemap Generator](https://wordpress.org/plugins/google-sitemap-generator) plugin, and [Google Webmaster Tools](https://www.google.com/webmasters/tools) plugin for search indexing
 * Implemented XML-RPC attacks fix
 
-Digital Ocean Specs
+## Digital Ocean Specs
 
     WordPress on 14.04
     $10/month $0.015/per hour
@@ -65,7 +65,7 @@ Altered settings
     memory_limit = 200M
     max_input_time = 150
 
-And server restart
+Server restart
 
     $ service apache2 restart
 
