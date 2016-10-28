@@ -54,6 +54,8 @@
 
 ### Theme Installation
 
+While attempting to install the theme, I received the following message. I would need to adjust Apache settings.
+
 ![](deployment-images/are-you-sure.jpg)
 
 Apache server file access via SSH and Nano
