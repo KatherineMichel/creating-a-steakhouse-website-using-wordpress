@@ -6,7 +6,7 @@
 * Domain private registration: [GoDaddy Private Registration](https://www.godaddy.com/domainaddon/private-registration.aspx)
 * Host: [Digital Ocean](https://www.digitalocean.com)
 * Theme: [Sage from HighGrade Lab](http://www.highgradelab.com/sage)
-* SSH client: [PuTTY](http://www.putty.org) and Mac terminal
+* [SSH](https://en.wikipedia.org/wiki/Secure_Shell) client: [PuTTY](http://www.putty.org) and Mac terminal
 
 ## SEO
 
@@ -34,7 +34,7 @@
 * [Configured GoDaddy domain to point to Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars)
 * [Configured domain in Digital Ocean control panel](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean)
 * Enabled installation by [connecting to droplet with SSH](https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh) via PuTTY and Mac terminal, changing password
-* Created special Apache server configuration via SSH and Nano to enable upload of larger premium theme
+* Created special Apache server configuration via SSH and [Nano](https://www.nano-editor.org) to enable upload of larger premium theme
 * Used local environment to test WordPress before implementing in host environment
 * Used Google Canary Chrome Development Tools [Device Mode](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/?hl=en) for device simulation for testing; also crowdsourced device testing
 * Used [Yoast SEO for WordPress](https://yoast.com/wordpress/plugins/seo) plugin, [Google XML Sitemap Generator](https://wordpress.org/plugins/google-sitemap-generator) plugin, and [Google Webmaster Tools](https://www.google.com/webmasters/tools) plugin for search indexing
