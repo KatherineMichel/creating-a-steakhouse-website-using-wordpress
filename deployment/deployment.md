@@ -54,6 +54,8 @@
 
 ### Theme Installation
 
+![](deployment-images/are-you-sure.jpg)
+
 Apache server file access via SSH and Nano
 
     $ sudo nano /etc/php5/apache2/php.ini
@@ -75,7 +77,7 @@ I was then able to upload and activate the theme without incident.
 
 I was searching for the website daily in Google in anticipation that it would show up in the results. When it did, I clicked on the website link and the website displayed an error. 
 
-![](error-establishing-a-database-connection.jpg)
+![](deployment-images/error-establishing-a-database-connection.jpg)
 
 I was able to immediately restart MySQL and the website immediately worked again
 
@@ -89,7 +91,7 @@ I first accessed the log to verify that an attack of this type had been carried 
 
 The log showed that thousands of attack requests had taken place. The Digital Ocean article explains how to identify an attack request. This is a screenshot of just a few of the many requests.
 
-![](terminal-log-scrolling.jpg)
+![](deployment-images/terminal-log-scrolling.jpg)
 
 I then put a fix in place to block this kind of attack 
 
