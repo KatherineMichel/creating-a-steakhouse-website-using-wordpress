@@ -42,6 +42,6 @@ GitBook: http://www.gitbook.com/book/katherinemichel/creating-a-steakhouse-websi
 <br> 
 GitHub repo: https://github.com/KatherineMichel/creating-a-steakhouse-website-using-wordpress
 
-© [Katherine Michel](http://katherinemichel.github.io) 2016
+© [Katherine Michel](http://katherinemichel.github.io) 2016-2017
 
 
