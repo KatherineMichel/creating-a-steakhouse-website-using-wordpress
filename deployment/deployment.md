@@ -2,7 +2,7 @@
 
 ## Primary Software
 
-* Domain ([www.prettyprairiesteakhouse.com](http://www.prettyprairiesteakhouse.com)): [GoDaddy Domain Name Search](https://www.godaddy.com/domains/domain-name-search)
+* Domain: [GoDaddy Domain Name Search](https://www.godaddy.com/domains/domain-name-search)
 * Domain private registration: [GoDaddy Private Registration](https://www.godaddy.com/domainaddon/private-registration.aspx)
 * Host: [Digital Ocean](https://www.digitalocean.com)
 * Theme: [Sage from HighGrade Lab](http://www.highgradelab.com/sage)
